@@ -1,6 +1,6 @@
-# Analog Electronics
+# Analog Electronics &mdash; Preliminary Syllabus
 
-*Unofficial Course Title: Electronics
+*Unofficial Course Title: Electronics*
 
 *Spring 2026, Deep Springs College, [Prof. Brian Hill](https://brianhill.github.io)*
 
@@ -37,22 +37,48 @@ I will pragmatically and intuitively introduce calculus concepts as we need them
 
 In this course, we will return to the Goldilocks era and work through the same materials that countless hobbyists in the 1970s used to learn electronics. This is an incredible sweet spot that is sadly getting lost. The materials of the Goldilocks era were hands-on, accessible, and remarkably educational.
 
-Our course will cover the associated theory, which I learned from Eric Adelberger when I was a college sophomore who used the then-very-new and now legendary Horowitz and Hill (no relation) textbook, *The Art of Electronics,* 1st edition, 1980. I will be referring to the 2nd edition and summarizing the essential theory in detailed handouts. The bulk of your time will be dominated by hands-on work with Radio Shack kits and Volume 1 of the companion text authored by Forrest Mims. We will spend eleven weeks of the semester building Mims’ introductory circuits, and then in the final three weeks, we’ll have time for each of you to choose and independently build any electronics project.
+Our course will cover the associated theory, which I learned from Eric Adelberger when I was a college sophomore who used the then-very-new and now legendary, *The Art of Electronics,* 1st edition, 1980, by Horowitz and Hill (no relation). I will be referring to the 2nd edition and summarizing the essential theory in detailed handouts. The bulk of your time will be dominated by hands-on work with Radio Shack kits and Workbook 2 of the companion text authored by Forrest Mims. We will spend ten or eleven weeks of the semester building Mims’ introductory circuits, and then in the final three or four weeks, we’ll have time for each of you to choose and independently build *any* electronics project. If the first ten weeks goes faster than expected I will draw from Workbook 2 of Mims's texts. 
 
 Since there is lead time in getging components, you'll need to select your final project and order components for it while we are still working through Mims towards the end of March.
+
+Procuring parts will be your responsibility and will depend completely on the circuit you choose, how you need to enclose the circuit, and what switches, knobs, and power supply (etc.) it needs. Some projects may take as little as $25 to build. Others may take $200. You don't save money building your own stuff relative to buying pre-built consumer products. You gain experience and understanding. The only ways to build cheaply are to scavenge used parts, or get into the mass production business, in which case, you would get the same bulk discounts that consumer product manufacturers depend on to create margins.
+
+## A Rough Outline
+
+### Part 1: Introduction to the Lab, and to Basic Electronics Concepts
+
+### Part 2: Discrete Component Types and Inventory
+
+### Part 3: Circuit Diagrams, Circuit Assembly Techniques
+
+### Part 4: Troubleshooting
+
+### Part 5: Controlling Circuits with Switches and Relays
+
+### Part 6: Using Resistors and Potentiometers
+
+### Part 7: Capacitors and RC Circuits
+
+### Part 8: Transformers, Speakers, and Microphones
+
+### Part 9: Semiconductors I: Diodes and LEDs
+
+### Part 10: Semiconductors II: Transistors, Amplifers, Voltage Regulators
+
+*If the preceding 10 parts are sufficiently rapidly digested, along with the theory that goes with them, we will launch into Volume II of Mims' books, and that would take us out of mostly analog electronics and into digital systems.*
 
 ## Grading (tentative)
 
 * 45% lab assignments (demonstration of working circuity in almost every class)
 * 15% written problem sets (where you will practice and demonstrate your understanding of circuit diagrams and theory)
 * 30% on two written exams (15% each)
-* 10% final project (the last 3 of our 14 weeks &mdash; most of April &mdash; will be devoted to building any electronics project you choose)
+* 10% final project (the last 3 or 4 of our 14 weeks &mdash; most or all of April &mdash; will be devoted to building any electronics project you choose)
 
 ## Problem Sets / Handouts / Being Neat and Organized
 
 There will be many problem sets and problem set solutions, two exams and exam solutions, and many handouts, and reviewing them will be valuable. To be organized, locate a three-ring binder and a three-ring hole punch, and file everything chronologically. Reverse-chronological is actually the most convenient, because you always open your binder to what you are currently working on.
 
-Problem sets should be on standard 8 1/2 x 11 paper. Multi-page problem sets should be stapled. Corrections should be erased (if done in pencil) or recopied (if done in pen). To make nice diagrams and graphs, you will very often need a ruler. The nicest technical work is facilitated by engineering pads, such as these [Roaring Spring Engineering Pads at Amazon](https://a.co/d/9vkXSes), and done with a mechanical pencil and with a ruler at hand. You are meant to only use one side of engineering paper. It might seem wasteful of trees and money, but it pays off in clarity and organization.
+Problem sets should be on standard 8 1/2 x 11 paper. Multi-page problem sets should be stapled. Corrections should be erased (if done in pencil) or recopied (if done in pen) if necessary to make a neat result. To make nice diagrams and graphs, you will very often need a ruler.
 
 ## Absences and Late Work
 
