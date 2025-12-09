@@ -37,7 +37,7 @@ I will pragmatically and intuitively introduce calculus concepts as we need them
 
 In this course, we will return to the Goldilocks era and work through the same materials that countless hobbyists in the 1970s used to learn electronics. This is an incredible sweet spot that is sadly getting lost. The materials of the Goldilocks era were hands-on, accessible, and remarkably educational.
 
-Our course will cover the associated theory, which I learned from Eric Adelberger when I was a college sophomore who used the then-very-new and now legendary, *Art of Electronics,* 1st edition, 1980, by Horowitz and Hill (no relation). I will be referring to the 2nd edition and summarizing the essential theory in detailed handouts. The bulk of your time will be dominated by hands-on work with Radio Shack kits and Workbook 2 of the companion text authored by Forrest Mims. We will spend ten or eleven weeks of the semester building Mims’ introductory circuits, and then in the final three or four weeks, we’ll have time for each of you to choose and independently build *any* electronics project. If the first ten weeks goes faster than expected I will draw from Workbook 2 of Mims's texts. 
+Our course will cover the associated theory, which I learned from Eric Adelberger when I was a college sophomore who used the then-very-new and now legendary, *Art of Electronics,* 1st edition, 1980, by Horowitz and Hill (no relation). I will be referring to the 2nd edition and summarizing the essential theory in detailed handouts. The bulk of your time will be dominated by hands-on work with Radio Shack kits and Workbook 1 of the companion text authored by Forrest Mims. We will spend ten or eleven weeks of the semester building Mims’ introductory circuits, and then in the final three or four weeks, we’ll have time for each of you to choose and independently build *any* electronics project. If the first ten weeks goes faster than expected I will draw from Workbook 2 of Mims's texts. 
 
 Since there is lead time in getting components, you'll need to select your final project and order components for it while we are still working through Mims towards the end of March. Procuring parts will be your responsibility and will depend completely on the circuit you choose, how you need to enclose the circuit, and what switches, knobs, and power supply (etc.) it needs. Some projects may take as little as $25 to build. Others may take $200. You don't save money building your own stuff relative to buying pre-built consumer products. You gain experience and understanding. The only ways to build cheaply are to scavenge used parts, or get into the mass production business, in which case, you would get the same bulk discounts that consumer product manufacturers depend on to create margins.
 
@@ -54,7 +54,7 @@ Since there is lead time in getting components, you'll need to select your final
 * Unit 9: Semiconductors I: Diodes and LEDs
 * Unit 10: Semiconductors II: Transistors, Amplifers, Voltage Regulators
 
-*If the preceding 10 units are sufficiently rapidly digested by the class, including the theory that goes with them, we will launch into Volume II of Mims' books, and that would take us out of mostly analog systems and into digital ones.*
+*If the preceding 10 units are sufficiently rapidly digested by the class, including the theory that goes with them, we will launch into Workbook 2 of Mims' books, and that would take us out of mostly analog systems and into very basic digital systems.*
 
 ## Grading (tentative)
 
