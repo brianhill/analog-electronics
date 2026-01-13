@@ -4,6 +4,8 @@
 
 *Spring 2026, Deep Springs College, [Prof. Brian Hill](https://brianhill.github.io)*
 
+*Course meeting times: 8:00-9:25am, Tu/Fr*
+
 ## Course Proposal and Preliminary Syllabus
 
 A [PDF of the Course Proposal](./AnalogElectronicsCourseProposal.pdf) and a [PDF of the Preliminary Syllabus](./AnalogElectronicsPreliminarySyllabus.pdf) both containing much of the same information as is on these web pages.
