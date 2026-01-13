@@ -12,8 +12,8 @@ A [PDF of the Course Proposal](./AnalogElectronicsCourseProposal.pdf) and a [PDF
 
 Detailed daily schedules will be kept retrospectively:
 
-* [Daily Schedule-Term 4-FORTHCOMING](https://brianhill.github.io/physics-ii/daily_schedule-term_4.html)
-* [Daily Schedule-Term 5-FORTHCOMING](https://brianhill.github.io/physics-ii/daily_schedule-term_5.html)
+* [Daily Schedule-Term 4](./daily_schedule-term_4.html)
+* [Daily Schedule-Term 5](./daily_schedule-term_5.html)
 
 ## Overview
 
