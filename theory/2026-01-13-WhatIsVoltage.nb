@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       154,          7]
-NotebookDataLength[     22483,        485]
-NotebookOptionsPosition[     19812,        429]
-NotebookOutlinePosition[     20837,        456]
-CellTagsIndexPosition[     20794,        453]
+NotebookDataLength[     23405,        499]
+NotebookOptionsPosition[     20733,        443]
+NotebookOutlinePosition[     21758,        470]
+CellTagsIndexPosition[     21715,        467]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -90,7 +90,7 @@ That there is something called energy and that it is also conserved was \
 postulated and on its way to being established in the 1840s.
 
 We both say \[OpenCurlyDoubleQuote]there is conservation of energy,\
-\[CloseCurlyDoubleQuote] than \[OpenCurlyDoubleQuote]energy is conserved,\
+\[CloseCurlyDoubleQuote] and \[OpenCurlyDoubleQuote]energy is conserved,\
 \[CloseCurlyDoubleQuote] and they mean the same thing.
 
 You can think of energy as a quantification of how much work can be done. Or \
@@ -103,8 +103,8 @@ how much damage can be done. Or how much work it takes to do something.\
   3.977290376108016*^9}, {3.977290424499798*^9, 3.977290593439871*^9}, {
   3.977291715563643*^9, 3.977291722927026*^9}, {3.977294283900195*^9, 
   3.977294286450468*^9}, {3.977294348464924*^9, 3.977294483696389*^9}, {
-  3.977297000866914*^9, 
-  3.9772970053078957`*^9}},ExpressionUUID->"0f41de4e-6048-4501-bbca-\
+  3.977297000866914*^9, 3.9772970053078957`*^9}, {3.977299509294962*^9, 
+  3.977299509710959*^9}},ExpressionUUID->"0f41de4e-6048-4501-bbca-\
 4d101b9869da"]
 }, Open  ]],
 
@@ -131,8 +131,8 @@ and it exists so that you don\[CloseCurlyQuote]t have so many zeros on the \
 nutrition labels on the sides of cans. Imagine writing that a serving of tuna \
 contains 203000c instead of 203 kcal. The kcal is so much more convenient for \
 dieticians, they generally have forgotten that it is 1000 of the chemist\
-\[CloseCurlyQuote]s calories, and dietician\[CloseCurlyQuote]s and dieters \
-just say \[OpenCurlyDoubleQuote]calorie\[CloseCurlyDoubleQuote] not \
+\[CloseCurlyQuote]s calories, and dieticians and dieters just say \
+\[OpenCurlyDoubleQuote]calorie\[CloseCurlyDoubleQuote] not \
 \[OpenCurlyDoubleQuote]kcal\[CloseCurlyDoubleQuote] or \
 \[OpenCurlyDoubleQuote]kilocalorie.\[CloseCurlyDoubleQuote]\n\nNow what is \
 the chemist\[CloseCurlyQuote]s calorie!? The chemist\[CloseCurlyQuote]s \
@@ -143,8 +143,8 @@ polymath who decided to divide the temperature scale between the freezing of \
 water and the boiling of water into 100 equal parts. I\[CloseCurlyQuote]m \
 kind of fond of Fahrenheit, abbreviated \.baF. In Fahrenheit, the same range \
 is divided into 180 equal parts, and body temperature is very nearly the nice \
-round number of 100\.baF. As measured precision increased, it came to be seen \
-that normal body temperature is actually closer to 98.6\.baF.\n\nSince the \
+round number of 100\.baF. As measurement precision increased, it came to be \
+seen that normal body temperature is actually about 98.6\.baF.\n\nSince the \
 chemist\[CloseCurlyQuote]s calorie depends on the specific properties of \
 water, which is just a common compound that we have handy, whereas ",
  StyleBox["the Joule is deeply related to the meter, the kilogram, and the \
@@ -159,22 +159,25 @@ kilocalorie, because we already had too many things that start with \
 things that start with \[OpenCurlyDoubleQuote]c\[CloseCurlyDoubleQuote] are \
 the Coulomb and the degree of Centigrade. Again, these are abbreviated C, and \
 \.baC.\n\n(Well, actually, we\[CloseCurlyQuote]ll get to capacitance at some \
-point, and it also uses the letter C, but thankfully the unit of capacitance \
-is the Farad, abbreviated F. Capacitance will come later.)"
+point, and unfortunately capacitance also starts with the letter \
+\[OpenCurlyDoubleQuote]c,\[CloseCurlyDoubleQuote] but thankfully the unit of \
+capacitance is the Farad, abbreviated F. Capacitance will come later. Don\
+\[CloseCurlyQuote]t think about it yet.)"
 }], "Text",
  CellChangeTimes->{{3.9772897869106073`*^9, 3.977289795201707*^9}, {
-  3.9772898315081043`*^9, 3.977289864013296*^9}, {3.9772899117328033`*^9, 
-  3.977289924198493*^9}, {3.977289964141177*^9, 3.9772900024064293`*^9}, {
-  3.977290057672676*^9, 3.9772902173826313`*^9}, {3.977290249917742*^9, 
-  3.977290376108016*^9}, {3.977290424499798*^9, 3.977290593439871*^9}, {
-  3.977291715563643*^9, 3.977291722927026*^9}, {3.977294283900195*^9, 
-  3.977294286450468*^9}, {3.977294348464924*^9, 3.977294483696389*^9}, {
-  3.9772945258477*^9, 3.977294599409527*^9}, {3.9772946437184477`*^9, 
-  3.97729470479142*^9}, {3.9772947443666773`*^9, 3.9772954894123*^9}, {
-  3.977297030134324*^9, 3.977297039947782*^9}, {3.97729707995282*^9, 
-  3.977297298541855*^9}, {3.977297332397603*^9, 3.97729733620868*^9}, {
-  3.977297382619976*^9, 
-  3.977297474455495*^9}},ExpressionUUID->"e40729e5-26dd-44be-b526-\
+   3.9772898315081043`*^9, 3.977289864013296*^9}, {3.9772899117328033`*^9, 
+   3.977289924198493*^9}, {3.977289964141177*^9, 3.9772900024064293`*^9}, {
+   3.977290057672676*^9, 3.9772902173826313`*^9}, {3.977290249917742*^9, 
+   3.977290376108016*^9}, {3.977290424499798*^9, 3.977290593439871*^9}, {
+   3.977291715563643*^9, 3.977291722927026*^9}, {3.977294283900195*^9, 
+   3.977294286450468*^9}, {3.977294348464924*^9, 3.977294483696389*^9}, {
+   3.9772945258477*^9, 3.977294599409527*^9}, {3.9772946437184477`*^9, 
+   3.97729470479142*^9}, {3.9772947443666773`*^9, 3.9772954894123*^9}, {
+   3.977297030134324*^9, 3.977297039947782*^9}, {3.97729707995282*^9, 
+   3.977297298541855*^9}, {3.977297332397603*^9, 3.97729733620868*^9}, {
+   3.977297382619976*^9, 3.977297474455495*^9}, 3.977299540865567*^9, {
+   3.977299626971449*^9, 3.9772996322229156`*^9}, {3.977299682444284*^9, 
+   3.9772997211609907`*^9}},ExpressionUUID->"e40729e5-26dd-44be-b526-\
 1c69c7826dd5"]
 }, Open  ]],
 
@@ -190,8 +193,8 @@ aa03a4145598"],
 
 Cell[TextData[{
  "It is observed that it sometimes requires energy to move charge from place \
-to place (and that it sometimes releases energy to move charge from place to \
-place).\n\nIt is observed that if you have two such places then there is a \
+to place (and that it sometimes releases energy when charge moves from place \
+to place).\n\nIt is observed that if you have two such places then there is a \
 proportionality between the amount of charge moved and the energy required \
 (or the energy released).\n\nWe write:\n\n",
  Cell[BoxData[
@@ -212,7 +215,7 @@ proportionality between the amount of charge moved and the energy required \
  ", is the proportionality symbol.\n\nIf two things are proportional to each \
 other, they are in a constant ratio, which we call the proportionality \
 constant. Let\[CloseCurlyQuote]s call this ratio ",
- StyleBox["V. Note that that V like the E and the q are italicized!!",
+ StyleBox["V. Note that V like the E and the q are italicized!!",
   FontSlant->"Italic"],
  "\n\nSo we write:\n\n",
  Cell[BoxData[
@@ -227,7 +230,7 @@ constant. Let\[CloseCurlyQuote]s call this ratio ",
    TraditionalForm]],
   FormatType->TraditionalForm,ExpressionUUID->
   "942bedec-162e-4d11-9648-a359cc1b0985"],
- "\n\n",
+ "\n\nThe ratio ",
  Cell[BoxData[
   FormBox["V", TraditionalForm]],
   FormatType->TraditionalForm,ExpressionUUID->
@@ -243,8 +246,9 @@ released) when a charge moves between two places."
   3.977291715563643*^9, 3.977291722927026*^9}, {3.977294283900195*^9, 
   3.977294286450468*^9}, {3.977294348464924*^9, 3.977294483696389*^9}, {
   3.9772955343878508`*^9, 3.977295694442525*^9}, {3.97729748242092*^9, 
-  3.977297483334684*^9}, {3.977297527971925*^9, 
-  3.977297737238603*^9}},ExpressionUUID->"0fd3bcb8-dcff-4557-b66c-\
+  3.977297483334684*^9}, {3.977297527971925*^9, 3.977297737238603*^9}, {
+  3.977299741532827*^9, 3.9772997742052927`*^9}, {3.977299807897421*^9, 
+  3.97729981020619*^9}},ExpressionUUID->"0fd3bcb8-dcff-4557-b66c-\
 106aa568c266"]
 }, Open  ]],
 
@@ -269,8 +273,8 @@ Cell[TextData[{
      FontSize->18]}], TraditionalForm]],
   FormatType->TraditionalForm,ExpressionUUID->
   "a78a358e-f434-4239-bb9a-f674a53b7c35"],
- "\n\nSince the numerator has units of Joules, and the denominator has units \
-of Coulombs (in the mks system), clearly ",
+ "\n\nand snce the numerator has units of Joules, and the denominator has \
+units of Coulombs (in the mks system), clearly ",
  Cell[BoxData[
   FormBox["V", TraditionalForm]],
   FormatType->TraditionalForm,ExpressionUUID->
@@ -305,8 +309,8 @@ define a new unit, the Volt, which has abbreviation V.\n\n",
   3.977294286450468*^9}, {3.977294348464924*^9, 3.977294483696389*^9}, {
   3.9772955343878508`*^9, 3.977295694442525*^9}, {3.97729748242092*^9, 
   3.977297483334684*^9}, {3.977297527971925*^9, 3.977298072519912*^9}, {
-  3.977298390051358*^9, 
-  3.977298390892337*^9}},ExpressionUUID->"d2e586a4-383f-4d17-89ff-\
+  3.977298390051358*^9, 3.977298390892337*^9}, {3.977299842174305*^9, 
+  3.9772998432668552`*^9}},ExpressionUUID->"d2e586a4-383f-4d17-89ff-\
 c06f9e12da7a"]
 }, Open  ]],
 
@@ -337,20 +341,20 @@ Cell[TextData[{
      FontSize->18]}], TraditionalForm]],
   FormatType->TraditionalForm,ExpressionUUID->
   "2adf153f-bcf0-4940-8f18-7119c7249362"],
- "\n\nIt is because the quantity voltage, is usually denoted ",
+ "\n\nIt is because the quantity voltage is usually denoted ",
  StyleBox["V, ",
   FontSlant->"Italic"],
  "whereas the unit Volt, is usually denoted V.\n\nSorry about that. Just get \
 it right and get over it. The re-use of the letter V is going to be the least \
-of our difficulties in properly understanding circuitry.\n\nMore generally, \
-abstract quantities, like length, charge, energy, etc., are written in \
-italics, and units are written without italics.\n\nTo give a mundane example, \
-we can state as an equation that the length, ",
+of our difficulties in understanding circuitry.\n\nMore generally, abstract \
+quantities, like length, charge, energy, etc., are written in italics, and \
+units are written without italics.\n\nTo give a mundane example, we can state \
+as an equation that the length, ",
  Cell[BoxData[
   FormBox["d", TraditionalForm]],
   FormatType->TraditionalForm,ExpressionUUID->
   "1fd3f3b4-8d70-4846-8543-1dcbf8321b85"],
- ", is 3 feet, by writing\n\n",
+ ", is 3 feet, by writing:\n\n",
  Cell[BoxData[
   FormBox[
    RowBox[{"d", "=", 
@@ -362,9 +366,17 @@ we can state as an equation that the length, ",
   FormBox["d", TraditionalForm]],
   FormatType->TraditionalForm,ExpressionUUID->
   "8aa8da8a-9572-441d-bf69-8a753d301677"],
- " is italicized. The abbreviation for feet is not.\n\nThis is of course \
-extremely hard to tell in hand-written documents. A less mundane example of \
-the kind that will show up soon is\n\n",
+ " is italicized. The abbreviation for feet is not. You\[CloseCurlyQuote]d \
+read that as \[OpenCurlyDoubleQuote]the distance, ",
+ Cell[BoxData[
+  FormBox["d", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "7fc1b053-8289-42de-a199-1e45b5cbeebf"],
+ ", is three feet.\[CloseCurlyDoubleQuote]\n\nThis is of course extremely \
+hard to tell in hand-written documents, but textbooks almost always make the \
+typographical effort, as I have in this handout.\n\nA less mundane example of \
+the kind that we are talking about and that will actually show up soon is:\n\n\
+",
  Cell[BoxData[
   FormBox[
    RowBox[{"V", "=", 
@@ -391,7 +403,9 @@ the kind that will show up soon is\n\n",
   3.9772955343878508`*^9, 3.977295694442525*^9}, {3.97729748242092*^9, 
   3.977297483334684*^9}, {3.977297527971925*^9, 3.977298072519912*^9}, {
   3.9772984230083733`*^9, 3.977298555944427*^9}, {3.9772987610666533`*^9, 
-  3.9772989303486233`*^9}},ExpressionUUID->"5ba73ba8-28e7-44eb-8de0-\
+  3.9772989303486233`*^9}, {3.977299865677476*^9, 3.977299878924679*^9}, {
+  3.977299909286178*^9, 
+  3.977300014186831*^9}},ExpressionUUID->"5ba73ba8-28e7-44eb-8de0-\
 4c0476552867"]
 }, Open  ]],
 
@@ -464,27 +478,27 @@ Cell[1110, 39, 2359, 37, 643, "Text",ExpressionUUID->"bc0b98c7-aaae-44a3-adae-2d
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[3506, 81, 221, 4, 82, "Section",ExpressionUUID->"3657b009-cad2-43f2-a9ea-0351e4ee43de"],
-Cell[3730, 87, 1129, 20, 233, "Text",ExpressionUUID->"0f41de4e-6048-4501-bbca-4d101b9869da"]
+Cell[3730, 87, 1174, 20, 233, "Text",ExpressionUUID->"0f41de4e-6048-4501-bbca-4d101b9869da"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[4896, 112, 274, 4, 82, "Section",ExpressionUUID->"dd14c08c-0551-4a8c-86fe-b4f7ec8aa4bb"],
-Cell[5173, 118, 4139, 59, 1135, "Text",ExpressionUUID->"e40729e5-26dd-44be-b526-1c69c7826dd5"]
+Cell[4941, 112, 274, 4, 82, "Section",ExpressionUUID->"dd14c08c-0551-4a8c-86fe-b4f7ec8aa4bb"],
+Cell[5218, 118, 4378, 62, 1135, "Text",ExpressionUUID->"e40729e5-26dd-44be-b526-1c69c7826dd5"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[9349, 182, 369, 6, 82, "Section",ExpressionUUID->"67f87b5b-4258-4347-96ff-aa03a4145598"],
-Cell[9721, 190, 2545, 57, 616, "Text",ExpressionUUID->"0fd3bcb8-dcff-4557-b66c-106aa568c266"]
+Cell[9633, 185, 369, 6, 82, "Section",ExpressionUUID->"67f87b5b-4258-4347-96ff-aa03a4145598"],
+Cell[10005, 193, 2649, 58, 616, "Text",ExpressionUUID->"0fd3bcb8-dcff-4557-b66c-106aa568c266"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[12303, 252, 312, 5, 82, "Section",ExpressionUUID->"d827a9dd-96e2-40eb-9056-aeb85a145f90"],
-Cell[12618, 259, 2061, 50, 350, "Text",ExpressionUUID->"d2e586a4-383f-4d17-89ff-c06f9e12da7a"]
+Cell[12691, 256, 312, 5, 82, "Section",ExpressionUUID->"d827a9dd-96e2-40eb-9056-aeb85a145f90"],
+Cell[13006, 263, 2112, 50, 350, "Text",ExpressionUUID->"d2e586a4-383f-4d17-89ff-c06f9e12da7a"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[14716, 314, 350, 6, 82, "Section",ExpressionUUID->"0bdf592a-200f-4399-a9af-037f1013cb1b"],
-Cell[15069, 322, 3137, 72, 723, "Text",ExpressionUUID->"5ba73ba8-28e7-44eb-8de0-4c0476552867"]
+Cell[15155, 318, 350, 6, 82, "Section",ExpressionUUID->"0bdf592a-200f-4399-a9af-037f1013cb1b"],
+Cell[15508, 326, 3619, 82, 832, "Text",ExpressionUUID->"5ba73ba8-28e7-44eb-8de0-4c0476552867"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[18243, 399, 399, 6, 82, "Section",ExpressionUUID->"80046b4c-d2dc-44b0-8c3b-cd229921c605"],
-Cell[18645, 407, 1139, 18, 151, "Text",ExpressionUUID->"08ae5301-ccb2-4aba-80d6-b20a8ae97a92"]
+Cell[19164, 413, 399, 6, 82, "Section",ExpressionUUID->"80046b4c-d2dc-44b0-8c3b-cd229921c605"],
+Cell[19566, 421, 1139, 18, 151, "Text",ExpressionUUID->"08ae5301-ccb2-4aba-80d6-b20a8ae97a92"]
 }, Open  ]]
 }, Open  ]]
 }
