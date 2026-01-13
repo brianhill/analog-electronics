@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       154,          7]
-NotebookDataLength[     23405,        499]
-NotebookOptionsPosition[     20733,        443]
-NotebookOutlinePosition[     21758,        470]
-CellTagsIndexPosition[     21715,        467]
+NotebookDataLength[     23966,        515]
+NotebookOptionsPosition[     21294,        459]
+NotebookOutlinePosition[     22319,        486]
+CellTagsIndexPosition[     22276,        483]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -419,13 +419,28 @@ Cell["Conclusion", "Section",
   3.977298572354394*^9}},ExpressionUUID->"80046b4c-d2dc-44b0-8c3b-\
 cd229921c605"],
 
-Cell["\<\
-The units that have so far appeared are the Coulomb, the Joule, and the Volt, \
-and the corresponding concepts are charge, energy, and voltage.
-
-The rest of this course will be meaningless if you fail to deeply internalize \
-these three units and concepts. They are foundational to all of electronics.\
-\>", "Text",
+Cell[TextData[{
+ "The units that have so far appeared are the Coulomb, the Joule, and the \
+Volt, abbreviated (C, J, and V), and the corresponding concepts or quantities \
+are charge, energy, and voltage, usually denoted ",
+ Cell[BoxData[
+  FormBox["q", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "300ce0be-7703-4c41-9af2-fd4947e6d58c"],
+ ", ",
+ Cell[BoxData[
+  FormBox["E", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "af93d553-7d0e-434d-8ff3-0745235fa19b"],
+ ", and ",
+ Cell[BoxData[
+  FormBox["V", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "373564a4-f3bf-49c5-a4fa-b0d590c19a3e"],
+ ".\n\nThe rest of this course will be meaningless if you fail to deeply \
+internalize these three units and concepts. They are foundational to all of \
+electronics."
+}], "Text",
  CellChangeTimes->{{3.9772897869106073`*^9, 3.977289795201707*^9}, {
   3.9772898315081043`*^9, 3.977289864013296*^9}, {3.9772899117328033`*^9, 
   3.977289924198493*^9}, {3.977289964141177*^9, 3.9772900024064293`*^9}, {
@@ -436,7 +451,8 @@ these three units and concepts. They are foundational to all of electronics.\
   3.9772955343878508`*^9, 3.977295694442525*^9}, {3.97729748242092*^9, 
   3.977297483334684*^9}, {3.977297527971925*^9, 3.977298072519912*^9}, {
   3.9772984230083733`*^9, 3.9772986440726957`*^9}, {3.977298945704096*^9, 
-  3.9772989574484177`*^9}},ExpressionUUID->"08ae5301-ccb2-4aba-80d6-\
+  3.9772989574484177`*^9}, {3.977300231306588*^9, 
+  3.977300320615101*^9}},ExpressionUUID->"08ae5301-ccb2-4aba-80d6-\
 b20a8ae97a92"]
 }, Open  ]]
 }, Open  ]]
@@ -498,7 +514,7 @@ Cell[15508, 326, 3619, 82, 832, "Text",ExpressionUUID->"5ba73ba8-28e7-44eb-8de0-
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[19164, 413, 399, 6, 82, "Section",ExpressionUUID->"80046b4c-d2dc-44b0-8c3b-cd229921c605"],
-Cell[19566, 421, 1139, 18, 151, "Text",ExpressionUUID->"08ae5301-ccb2-4aba-80d6-b20a8ae97a92"]
+Cell[19566, 421, 1700, 34, 178, "Text",ExpressionUUID->"08ae5301-ccb2-4aba-80d6-b20a8ae97a92"]
 }, Open  ]]
 }, Open  ]]
 }
