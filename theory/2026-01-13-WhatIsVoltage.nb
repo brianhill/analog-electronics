@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       154,          7]
-NotebookDataLength[      3522,         94]
-NotebookOptionsPosition[      2826,         73]
-NotebookOutlinePosition[      3219,         89]
-CellTagsIndexPosition[      3176,         86]
+NotebookDataLength[     17715,        380]
+NotebookOptionsPosition[     15548,        334]
+NotebookOutlinePosition[     16519,        359]
+CellTagsIndexPosition[     16476,        356]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -37,42 +37,312 @@ Cell["First, What is Charge?", "Section",
   3.977289742778789*^9}},ExpressionUUID->"3de9606e-89b4-4f70-9dc7-\
 918a0345ca37"],
 
-Cell["\<\
-One of the greatest discoveries in physics, by William Watson (in 1746) and \
-Benjamin Franklin (in 1747), was that there is something he called \
+Cell[TextData[{
+ "One of the greatest discoveries in physics, by William Watson (in 1746) and \
+Benjamin Franklin (in 1747), was that there is something that Franklin called \
 \[OpenCurlyDoubleQuote]electrical fluid,\[CloseCurlyDoubleQuote] and which we \
-now refer to as charge.
-
-Famously, in 1752, Benjamin Franklin flew a kite carrying a metal key beneath \
-it into a storm cloud and then brought the kite and the key back down. The \
-key was holding some of the electrical fluid.
-
-How do  know we have charge (or \[OpenCurlyDoubleQuote]electrical fluid\
-\[CloseCurlyDoubleQuote])? We catch it in a jar invented to hold charge in \
-1745 or 1746. It was invented independently by two people, Ewald Georg von \
-Kleist, and Pieter van Musschenbroek. Van Musschenbroek lived in Leiden, and \
-the jar is known as the Leyden jar. It is a glass jar coated with metal.
-
-Nowadays, and emerging at the time, was the observation that the \
+now refer to as charge.\n\nFamously, in 1752, Benjamin Franklin flew a kite \
+carrying a metal key beneath it into a storm cloud and then brought the kite \
+and the key back down. The key was holding some of the electrical fluid! So \
+he deduced that lightning is electrical fluid.\n\nHow do we (or Ben Franklin) \
+know we have charge (or \[OpenCurlyDoubleQuote]electrical fluid\
+\[CloseCurlyDoubleQuote])? We catch it in a jar invented to hold charge. It \
+was invented independently by two people, Ewald Georg von Kleist, and Pieter \
+van Musschenbroek. Van Musschenbroek lived in Leiden, and the jar is known as \
+the Leyden jar. It is a glass jar coated with metal.\n\nNowadays, and \
+emerging at the time, was the observation that the \
 \[OpenCurlyDoubleQuote]electrical fluid\[CloseCurlyDoubleQuote] barely moved \
-through glass or not at all, and that it easily moved through metal.
+through glass or not at all, and that it easily moved through metal.\n\n",
+ StyleBox["I only need you to accept that there is something called charge, \
+and that it easily moves through metal. You don\[CloseCurlyQuote]t yet have \
+to have a mental picture of what charge is.",
+  FontSlant->"Italic"],
+ "\n\nAn extremely important property of charge is that it cannot be created \
+or destroyed. It can move from place to place. It can divide and recombine, \
+but it cannot simply disappear. More on this when we discuss negative charge. \
+",
+ StyleBox["We say, \[OpenCurlyDoubleQuote]charge is conserved.\
+\[CloseCurlyDoubleQuote]",
+  FontSlant->"Italic"]
+}], "Text",
+ CellChangeTimes->{{3.9772897869106073`*^9, 3.977289795201707*^9}, {
+  3.9772898315081043`*^9, 3.977289864013296*^9}, {3.9772899117328033`*^9, 
+  3.977289924198493*^9}, {3.977289964141177*^9, 3.9772900024064293`*^9}, {
+  3.977290057672676*^9, 3.9772902173826313`*^9}, {3.977290249917742*^9, 
+  3.977290376108016*^9}, {3.977290424499798*^9, 3.977290593439871*^9}, {
+  3.977294297176936*^9, 3.977294345778268*^9}, {3.977294376373581*^9, 
+  3.97729438287744*^9}, {3.9772968371525393`*^9, 3.977296908601355*^9}, {
+  3.97729697013234*^9, 
+  3.97729697044591*^9}},ExpressionUUID->"bc0b98c7-aaae-44a3-adae-\
+2d6a74dbb68a"]
+}, Open  ]],
 
-I only need you to accept that there is something called charge, and that it \
-easily moves through metal. You don\[CloseCurlyQuote]t yet have to have a \
-mental picture of what charge is.\
+Cell[CellGroupData[{
+
+Cell["Second, What is Energy?", "Section",
+ CellChangeTimes->{{3.9772897343047647`*^9, 3.977289742778789*^9}, {
+  3.9772916970235863`*^9, 
+  3.977291702857244*^9}},ExpressionUUID->"3657b009-cad2-43f2-a9ea-\
+0351e4ee43de"],
+
+Cell["\<\
+That there is something called energy and that it is also conserved was \
+postulated and on its way to being established in the 1840s.
+
+We both say \[OpenCurlyDoubleQuote]there is conservation of energy,\
+\[CloseCurlyDoubleQuote] than \[OpenCurlyDoubleQuote]energy is conserved,\
+\[CloseCurlyDoubleQuote] and they mean the same thing.
+
+You can think of energy as a quantification of how much work can be done. Or \
+how much damage can be done. Or how much work it takes to do something.\
 \>", "Text",
  CellChangeTimes->{{3.9772897869106073`*^9, 3.977289795201707*^9}, {
   3.9772898315081043`*^9, 3.977289864013296*^9}, {3.9772899117328033`*^9, 
   3.977289924198493*^9}, {3.977289964141177*^9, 3.9772900024064293`*^9}, {
   3.977290057672676*^9, 3.9772902173826313`*^9}, {3.977290249917742*^9, 
-  3.977290376108016*^9}, {3.977290424499798*^9, 
-  3.977290593439871*^9}},ExpressionUUID->"bc0b98c7-aaae-44a3-adae-\
-2d6a74dbb68a"]
+  3.977290376108016*^9}, {3.977290424499798*^9, 3.977290593439871*^9}, {
+  3.977291715563643*^9, 3.977291722927026*^9}, {3.977294283900195*^9, 
+  3.977294286450468*^9}, {3.977294348464924*^9, 3.977294483696389*^9}, {
+  3.977297000866914*^9, 
+  3.9772970053078957`*^9}},ExpressionUUID->"0f41de4e-6048-4501-bbca-\
+4d101b9869da"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["The Units of Charge and Energy", "Section",
+ CellChangeTimes->{{3.9772897343047647`*^9, 3.977289742778789*^9}, {
+  3.9772916970235863`*^9, 3.977291702857244*^9}, {3.977294502463111*^9, 
+  3.977294507440075*^9}},ExpressionUUID->"dd14c08c-0551-4a8c-86fe-\
+b4f7ec8aa4bb"],
+
+Cell[TextData[{
+ "In SI (System Internationale) units, charge is measured in Coulombs \
+(abbreviated C), and energy is measured in Joules (abbreviated J). The Joule \
+is directly related to the meter, the kilogram, and the second, but at this \
+moment, it doesn\[CloseCurlyQuote]t matter how. We\[CloseCurlyQuote]ll get to \
+that later. The meter (abbreviated m), the kilogram (kg), and the second (s) \
+are also part of the SI system, and SI units are sometimes called mks units.\n\
+\nYou are probably familiar with other units for energy, such as the chemist\
+\[CloseCurlyQuote]s calorie (abbreviated c), and the dietician\
+\[CloseCurlyQuote]s calorie (also abbreviated C or kcal). The dietician\
+\[CloseCurlyQuote]s calorie is just 1000 times the chemist\[CloseCurlyQuote]s \
+and it exists so that you don\[CloseCurlyQuote]t have so many zeros on the \
+nutrition labels on the sides of cans. Imagine writing that a serving of tuna \
+contains 203000c instead of 203 kcal. The kcal is so much more convenient for \
+dieticians, they generally have forgotten that it is 1000 of the chemist\
+\[CloseCurlyQuote]s calories, and dietician\[CloseCurlyQuote]s and dieters \
+just say \[OpenCurlyDoubleQuote]calorie\[CloseCurlyDoubleQuote] not \
+\[OpenCurlyDoubleQuote]kcal\[CloseCurlyDoubleQuote] or \
+\[OpenCurlyDoubleQuote]kilocalorie.\[CloseCurlyDoubleQuote]\n\nNow what is \
+the chemist\[CloseCurlyQuote]s calorie!? The chemist\[CloseCurlyQuote]s \
+calorie is by definition how much energy it takes to heat 1 gram of water \
+from 14.5\.baC to 15.5\.baC.\n\nBy the way \.baC is the abbreviation for a \
+degree of Centigrade. Centigrade is also called Celsius to honor the Swedish \
+polymath who decided to divide the temperature scale between the freezing of \
+water and the boiling of water into 100 equal parts. I\[CloseCurlyQuote]m \
+kind of fond of Fahrenheit, abbreviated \.baF. In Fahrenheit, the same range \
+is divided into 180 equal parts, and body temperature is very nearly the nice \
+round number of 100\.baF. As measured precision increased, it came to be seen \
+that normal body temperature is actually closer to 98.6\.baF.\n\nSince the \
+chemist\[CloseCurlyQuote]s calorie depends on the specific properties of \
+water, which is just a common compound that we have handy, whereas ",
+ StyleBox["the Joule is deeply related to the meter, the kilogram, and the \
+second,",
+  FontSlant->"Italic"],
+ " the Joule is way more convenient for most scientific work.\n\nYou will \
+hear no more from me about the calorie or the kilocalorie. I only brought \
+them up so that you would have some tangible, everyday example of energy. It\
+\[CloseCurlyQuote]s good that we are done with the calorie and the \
+kilocalorie, because we already had too many things that start with \
+\[OpenCurlyDoubleQuote]c.\[CloseCurlyDoubleQuote]\n\nFrom here on the only \
+things that start with \[OpenCurlyDoubleQuote]c\[CloseCurlyDoubleQuote] are \
+the Coulomb and the degree of Centigrade. Again, these are abbreviated C, and \
+\.baC.\n\n(Well, actually, we\[CloseCurlyQuote]ll get to capacitance at some \
+point, and it also uses the letter C, but thankfully the unit of capacitance \
+is the Farad, abbreviated F. Capacitance will come later.)"
+}], "Text",
+ CellChangeTimes->{{3.9772897869106073`*^9, 3.977289795201707*^9}, {
+  3.9772898315081043`*^9, 3.977289864013296*^9}, {3.9772899117328033`*^9, 
+  3.977289924198493*^9}, {3.977289964141177*^9, 3.9772900024064293`*^9}, {
+  3.977290057672676*^9, 3.9772902173826313`*^9}, {3.977290249917742*^9, 
+  3.977290376108016*^9}, {3.977290424499798*^9, 3.977290593439871*^9}, {
+  3.977291715563643*^9, 3.977291722927026*^9}, {3.977294283900195*^9, 
+  3.977294286450468*^9}, {3.977294348464924*^9, 3.977294483696389*^9}, {
+  3.9772945258477*^9, 3.977294599409527*^9}, {3.9772946437184477`*^9, 
+  3.97729470479142*^9}, {3.9772947443666773`*^9, 3.9772954894123*^9}, {
+  3.977297030134324*^9, 3.977297039947782*^9}, {3.97729707995282*^9, 
+  3.977297298541855*^9}, {3.977297332397603*^9, 3.97729733620868*^9}, {
+  3.977297382619976*^9, 
+  3.977297474455495*^9}},ExpressionUUID->"e40729e5-26dd-44be-b526-\
+1c69c7826dd5"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Finally, What is Voltage!", "Section",
+ CellChangeTimes->{{3.9772897343047647`*^9, 3.977289742778789*^9}, {
+  3.9772916970235863`*^9, 3.977291702857244*^9}, {3.977294502463111*^9, 
+  3.977294507440075*^9}, {3.977295513175353*^9, 3.977295521049189*^9}, {
+  3.977296822335154*^9, 
+  3.9772968237279654`*^9}},ExpressionUUID->"67f87b5b-4258-4347-96ff-\
+aa03a4145598"],
+
+Cell[TextData[{
+ "It is observed that it sometimes requires energy to move charge from place \
+to place (and that it sometimes releases energy to move charge from place to \
+place).\n\nIt is observed that if you have two such places then there is a \
+proportionality between the amount of charge moved and the energy required \
+(or the energy released).\n\nWe write:\n\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"\[CapitalDelta]", "\[VeryThinSpace]", "E"}], "\[Proportional]", 
+    RowBox[{"\[CapitalDelta]", "\[VeryThinSpace]", "q"}]}], TraditionalForm]],
+  
+  FormatType->TraditionalForm,ExpressionUUID->
+  "3604ffb1-7224-4134-8000-99ededb8c6bd"],
+ " \n\nThe funny symbol, ",
+ Cell[BoxData[
+  FormBox[
+   StyleBox["\[Proportional]",
+    FontSize->18], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "f37031aa-c7ec-4c6f-a443-83413e5e7d0e"],
+ ", is the proportionality symbol.\n\nIf two things are proportional to each \
+other, they are in a constant ratio, which we call the proportionality \
+constant. Let\[CloseCurlyQuote]s call this ratio ",
+ StyleBox["V. Note that that V like the E and the q are italicized!!",
+  FontSlant->"Italic"],
+ "\n\nSo we write:\n\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"\[CapitalDelta]", "\[VeryThinSpace]", "E"}], "=", 
+    RowBox[{
+     StyleBox[
+      RowBox[{
+       StyleBox["V",
+        FontSize->18], "\[CapitalDelta]"}]], "\[VeryThinSpace]", "q"}]}], 
+   TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "942bedec-162e-4d11-9648-a359cc1b0985"],
+ "\n\n",
+ Cell[BoxData[
+  FormBox["V", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "92dd92e3-9f58-4dca-a8b1-14ed606e8013"],
+ " is the amount of energy per amount of charge that is required (or \
+released) when a charge moves between two places."
+}], "Text",
+ CellChangeTimes->{{3.9772897869106073`*^9, 3.977289795201707*^9}, {
+  3.9772898315081043`*^9, 3.977289864013296*^9}, {3.9772899117328033`*^9, 
+  3.977289924198493*^9}, {3.977289964141177*^9, 3.9772900024064293`*^9}, {
+  3.977290057672676*^9, 3.9772902173826313`*^9}, {3.977290249917742*^9, 
+  3.977290376108016*^9}, {3.977290424499798*^9, 3.977290593439871*^9}, {
+  3.977291715563643*^9, 3.977291722927026*^9}, {3.977294283900195*^9, 
+  3.977294286450468*^9}, {3.977294348464924*^9, 3.977294483696389*^9}, {
+  3.9772955343878508`*^9, 3.977295694442525*^9}, {3.97729748242092*^9, 
+  3.977297483334684*^9}, {3.977297527971925*^9, 
+  3.977297737238603*^9}},ExpressionUUID->"0fd3bcb8-dcff-4557-b66c-\
+106aa568c266"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["The Units of Voltage", "Section",
+ CellChangeTimes->{{3.9772897343047647`*^9, 3.977289742778789*^9}, {
+  3.9772916970235863`*^9, 3.977291702857244*^9}, {3.977294502463111*^9, 
+  3.977294507440075*^9}, {3.97729775554117*^9, 
+  3.977297756528002*^9}},ExpressionUUID->"d827a9dd-96e2-40eb-9056-\
+aeb85a145f90"],
+
+Cell[TextData[{
+ "Since\n\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"V", "=", 
+    StyleBox[
+     FractionBox[
+      RowBox[{"\[CapitalDelta]", "\[VeryThinSpace]", "E"}], 
+      RowBox[{"\[CapitalDelta]", "\[VeryThinSpace]", "q"}]],
+     FontSize->18]}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "a78a358e-f434-4239-bb9a-f674a53b7c35"],
+ "\n\nSince the numerator has units of Joules, and the denominator has units \
+of Coulombs (in the mks system), clearly ",
+ Cell[BoxData[
+  FormBox["V", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "a2cf4df9-7f6b-4ae2-b4b6-6506ac24b430"],
+ " has the units of Joules/Coulomb.\n\nJoules per Coulomb comes up so much in \
+science, we get sick of writing Joules/Coulomb, or even just J/C, and so we \
+define a new unit, the Volt, which has abbreviation V.\n\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"1", " \[VeryThinSpace]", 
+     StyleBox["V",
+      FontSlant->"Plain"]}], "=", 
+    StyleBox[
+     FractionBox[
+      RowBox[{"1", 
+       StyleBox["J",
+        FontSlant->"Plain"]}], 
+      RowBox[{"1", " ", 
+       StyleBox["C",
+        FontSlant->"Plain"]}]],
+     FontSize->18]}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "f1754cb1-0f77-45ba-ace2-745a77523a2a"],
+ "\n\nNow you see why I was a stickler about using the italics for the ",
+ Cell[BoxData[
+  FormBox["V", TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "1de6f17f-7c84-40aa-ab23-fccb8b4507b4"],
+ " in \n\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"V", "=", 
+    StyleBox[
+     FractionBox[
+      RowBox[{"\[CapitalDelta]", "\[VeryThinSpace]", "E"}], 
+      RowBox[{"\[CapitalDelta]", "\[VeryThinSpace]", "q"}]],
+     FontSize->18]}], TraditionalForm]],
+  FormatType->TraditionalForm,ExpressionUUID->
+  "f2fd5b47-94ae-42d5-8916-ba6568cb2173"],
+ "\n\nIt is because the quantity voltage, is usually denoted ",
+ StyleBox["V, ",
+  FontSlant->"Italic"],
+ "whereas the unit Volt, is usually denoted V.\n\nSorry about that. Get it \
+right and get over it. The re-use of the letter V is the least of going to be \
+the least of our difficulties in properly understanding circuitry."
+}], "Text",
+ CellChangeTimes->{{3.9772897869106073`*^9, 3.977289795201707*^9}, {
+  3.9772898315081043`*^9, 3.977289864013296*^9}, {3.9772899117328033`*^9, 
+  3.977289924198493*^9}, {3.977289964141177*^9, 3.9772900024064293`*^9}, {
+  3.977290057672676*^9, 3.9772902173826313`*^9}, {3.977290249917742*^9, 
+  3.977290376108016*^9}, {3.977290424499798*^9, 3.977290593439871*^9}, {
+  3.977291715563643*^9, 3.977291722927026*^9}, {3.977294283900195*^9, 
+  3.977294286450468*^9}, {3.977294348464924*^9, 3.977294483696389*^9}, {
+  3.9772955343878508`*^9, 3.977295694442525*^9}, {3.97729748242092*^9, 
+  3.977297483334684*^9}, {3.977297527971925*^9, 
+  3.977298072519912*^9}},ExpressionUUID->"d2e586a4-383f-4d17-89ff-\
+c06f9e12da7a"]
 }, Open  ]]
 }, Open  ]]
 },
 WindowSize->{808, 911},
-WindowMargins->{{240, Automatic}, {Automatic, 13}},
+WindowMargins->{{317, Automatic}, {Automatic, -89}},
+SpellingDictionaries->{"CorrectWords"->{
+ "Acck", "Fasshauer\[CloseCurlyQuote]s", "Giordano", "Eqs", "Eq", 
+  "unstretched", "Johannessen", "waaaaay", "Tahm", "Hexi", "Rania", "wifi", 
+  "pts", "Belk", "Wikimedia", "\[Omega]\[CloseCurlyQuote]s", 
+  "\[Theta]\[CloseCurlyQuote]s", "\[Alpha]\[CloseCurlyQuote]s", 
+  "proportionalities", "Lotke", "Neils", "dimensionful", "overconstrains", 
+  "levelspec", "uno", "tres", "cuatro", "cinco", "seis", "Jin", "Choy", 
+  "Zaki", "Howie", "screenshotted", "Sanderson", "Keras", "th", 
+  "Musschenbroek", "Pieter", "Kleist", "Leyden"}},
 FrontEndVersion->"14.3 for Mac OS X ARM (64-bit) (July 8, 2025)",
 StyleDefinitions->"Default.nb",
 ExpressionUUID->"192e574c-aafc-474c-aff9-87c7c2443447"
@@ -93,12 +363,26 @@ Cell[576, 22, 160, 3, 84, "Chapter",ExpressionUUID->"d2045dd5-ae49-4de6-867a-c65
 Cell[739, 27, 174, 3, 65, "Subtitle",ExpressionUUID->"e8206456-eca3-43f3-9d73-0dbb9fef0bab"],
 Cell[CellGroupData[{
 Cell[938, 34, 169, 3, 82, "Section",ExpressionUUID->"3de9606e-89b4-4f70-9dc7-918a0345ca37"],
-Cell[1110, 39, 1688, 30, 506, "Text",ExpressionUUID->"bc0b98c7-aaae-44a3-adae-2d6a74dbb68a"]
+Cell[1110, 39, 2359, 37, 643, "Text",ExpressionUUID->"bc0b98c7-aaae-44a3-adae-2d6a74dbb68a"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3506, 81, 221, 4, 82, "Section",ExpressionUUID->"3657b009-cad2-43f2-a9ea-0351e4ee43de"],
+Cell[3730, 87, 1129, 20, 233, "Text",ExpressionUUID->"0f41de4e-6048-4501-bbca-4d101b9869da"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[4896, 112, 274, 4, 82, "Section",ExpressionUUID->"dd14c08c-0551-4a8c-86fe-b4f7ec8aa4bb"],
+Cell[5173, 118, 4139, 59, 1135, "Text",ExpressionUUID->"e40729e5-26dd-44be-b526-1c69c7826dd5"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[9349, 182, 369, 6, 82, "Section",ExpressionUUID->"67f87b5b-4258-4347-96ff-aa03a4145598"],
+Cell[9721, 190, 2545, 57, 616, "Text",ExpressionUUID->"0fd3bcb8-dcff-4557-b66c-106aa568c266"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[12303, 252, 312, 5, 82, "Section",ExpressionUUID->"d827a9dd-96e2-40eb-9056-aeb85a145f90"],
+Cell[12618, 259, 2902, 71, 629, "Text",ExpressionUUID->"d2e586a4-383f-4d17-89ff-c06f9e12da7a"]
 }, Open  ]]
 }, Open  ]]
 }
 ]
 *)
-
-(* End of internal cache information *)
 
