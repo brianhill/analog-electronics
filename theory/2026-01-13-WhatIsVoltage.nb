@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       154,          7]
-NotebookDataLength[     23966,        515]
-NotebookOptionsPosition[     21294,        459]
-NotebookOutlinePosition[     22319,        486]
-CellTagsIndexPosition[     22276,        483]
+NotebookDataLength[     23287,        495]
+NotebookOptionsPosition[     20615,        439]
+NotebookOutlinePosition[     21640,        466]
+CellTagsIndexPosition[     21597,        463]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -202,19 +202,19 @@ proportionality between the amount of charge moved and the energy required \
    RowBox[{
     RowBox[{"\[CapitalDelta]", "\[VeryThinSpace]", "E"}], "\[Proportional]", 
     RowBox[{"\[CapitalDelta]", "\[VeryThinSpace]", "q"}]}], TraditionalForm]],
-  
-  FormatType->TraditionalForm,ExpressionUUID->
-  "3604ffb1-7224-4134-8000-99ededb8c6bd"],
+  ExpressionUUID->"3604ffb1-7224-4134-8000-99ededb8c6bd"],
  " \n\nThe funny symbol, ",
  Cell[BoxData[
   FormBox[
    StyleBox["\[Proportional]",
-    FontSize->18], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+    FontSize->18], TraditionalForm]],ExpressionUUID->
   "f37031aa-c7ec-4c6f-a443-83413e5e7d0e"],
- ", is the proportionality symbol.\n\nIf two things are proportional to each \
-other, they are in a constant ratio, which we call the proportionality \
-constant. Let\[CloseCurlyQuote]s call this ratio ",
+ ", is the proportionality symbol. \[CapitalDelta] is read aloud as \
+\[OpenCurlyDoubleQuote]change in\[CloseCurlyDoubleQuote] or \
+\[OpenCurlyDoubleQuote]an incremental amount of\[CloseCurlyDoubleQuote] or \
+just \[OpenCurlyDoubleQuote]delta.\[CloseCurlyDoubleQuote]\n\nIf two things \
+are proportional to each other, they are in a constant ratio, which we call \
+the proportionality constant. Let\[CloseCurlyQuote]s call this ratio ",
  StyleBox["V. Note that V like the E and the q are italicized!!",
   FontSlant->"Italic"],
  "\n\nSo we write:\n\n",
@@ -227,13 +227,10 @@ constant. Let\[CloseCurlyQuote]s call this ratio ",
       RowBox[{
        StyleBox["V",
         FontSize->18], "\[CapitalDelta]"}]], "\[VeryThinSpace]", "q"}]}], 
-   TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "942bedec-162e-4d11-9648-a359cc1b0985"],
+   TraditionalForm]],ExpressionUUID->"942bedec-162e-4d11-9648-a359cc1b0985"],
  "\n\nThe ratio ",
  Cell[BoxData[
-  FormBox["V", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["V", TraditionalForm]],ExpressionUUID->
   "92dd92e3-9f58-4dca-a8b1-14ed606e8013"],
  " is the amount of energy per amount of charge that is required (or \
 released) when a charge moves between two places."
@@ -248,7 +245,8 @@ released) when a charge moves between two places."
   3.9772955343878508`*^9, 3.977295694442525*^9}, {3.97729748242092*^9, 
   3.977297483334684*^9}, {3.977297527971925*^9, 3.977297737238603*^9}, {
   3.977299741532827*^9, 3.9772997742052927`*^9}, {3.977299807897421*^9, 
-  3.97729981020619*^9}},ExpressionUUID->"0fd3bcb8-dcff-4557-b66c-\
+  3.97729981020619*^9}, {3.9773010992555943`*^9, 
+  3.977301120964295*^9}},ExpressionUUID->"0fd3bcb8-dcff-4557-b66c-\
 106aa568c266"]
 }, Open  ]],
 
@@ -270,14 +268,12 @@ Cell[TextData[{
      FractionBox[
       RowBox[{"\[CapitalDelta]", "\[VeryThinSpace]", "E"}], 
       RowBox[{"\[CapitalDelta]", "\[VeryThinSpace]", "q"}]],
-     FontSize->18]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+     FontSize->18]}], TraditionalForm]],ExpressionUUID->
   "a78a358e-f434-4239-bb9a-f674a53b7c35"],
- "\n\nand snce the numerator has units of Joules, and the denominator has \
+ "\n\nand since the numerator has units of Joules, and the denominator has \
 units of Coulombs (in the mks system), clearly ",
  Cell[BoxData[
-  FormBox["V", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["V", TraditionalForm]],ExpressionUUID->
   "a2cf4df9-7f6b-4ae2-b4b6-6506ac24b430"],
  " has the units of Joules/Coulomb.\n\nJoules per Coulomb comes up so much in \
 science, we get sick of writing Joules/Coulomb, or even just J/C, and so we \
@@ -296,21 +292,21 @@ define a new unit, the Volt, which has abbreviation V.\n\n",
       RowBox[{"1", " ", 
        StyleBox["C",
         FontSlant->"Plain"]}]],
-     FontSize->18]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+     FontSize->18]}], TraditionalForm]],ExpressionUUID->
   "f1754cb1-0f77-45ba-ace2-745a77523a2a"]
 }], "Text",
  CellChangeTimes->{{3.9772897869106073`*^9, 3.977289795201707*^9}, {
-  3.9772898315081043`*^9, 3.977289864013296*^9}, {3.9772899117328033`*^9, 
-  3.977289924198493*^9}, {3.977289964141177*^9, 3.9772900024064293`*^9}, {
-  3.977290057672676*^9, 3.9772902173826313`*^9}, {3.977290249917742*^9, 
-  3.977290376108016*^9}, {3.977290424499798*^9, 3.977290593439871*^9}, {
-  3.977291715563643*^9, 3.977291722927026*^9}, {3.977294283900195*^9, 
-  3.977294286450468*^9}, {3.977294348464924*^9, 3.977294483696389*^9}, {
-  3.9772955343878508`*^9, 3.977295694442525*^9}, {3.97729748242092*^9, 
-  3.977297483334684*^9}, {3.977297527971925*^9, 3.977298072519912*^9}, {
-  3.977298390051358*^9, 3.977298390892337*^9}, {3.977299842174305*^9, 
-  3.9772998432668552`*^9}},ExpressionUUID->"d2e586a4-383f-4d17-89ff-\
+   3.9772898315081043`*^9, 3.977289864013296*^9}, {3.9772899117328033`*^9, 
+   3.977289924198493*^9}, {3.977289964141177*^9, 3.9772900024064293`*^9}, {
+   3.977290057672676*^9, 3.9772902173826313`*^9}, {3.977290249917742*^9, 
+   3.977290376108016*^9}, {3.977290424499798*^9, 3.977290593439871*^9}, {
+   3.977291715563643*^9, 3.977291722927026*^9}, {3.977294283900195*^9, 
+   3.977294286450468*^9}, {3.977294348464924*^9, 3.977294483696389*^9}, {
+   3.9772955343878508`*^9, 3.977295694442525*^9}, {3.97729748242092*^9, 
+   3.977297483334684*^9}, {3.977297527971925*^9, 3.977298072519912*^9}, {
+   3.977298390051358*^9, 3.977298390892337*^9}, {3.977299842174305*^9, 
+   3.9772998432668552`*^9}, 
+   3.9773010946210012`*^9},ExpressionUUID->"d2e586a4-383f-4d17-89ff-\
 c06f9e12da7a"]
 }, Open  ]],
 
@@ -327,8 +323,7 @@ Cell["Italics", "Section",
 Cell[TextData[{
  "Now you see why I was a stickler about using the italics for the ",
  Cell[BoxData[
-  FormBox["V", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["V", TraditionalForm]],ExpressionUUID->
   "177ed55a-96dc-45fb-956c-82afadd13bcd"],
  " in \n\n",
  Cell[BoxData[
@@ -338,8 +333,7 @@ Cell[TextData[{
      FractionBox[
       RowBox[{"\[CapitalDelta]", "\[VeryThinSpace]", "E"}], 
       RowBox[{"\[CapitalDelta]", "\[VeryThinSpace]", "q"}]],
-     FontSize->18]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+     FontSize->18]}], TraditionalForm]],ExpressionUUID->
   "2adf153f-bcf0-4940-8f18-7119c7249362"],
  "\n\nIt is because the quantity voltage is usually denoted ",
  StyleBox["V, ",
@@ -351,26 +345,22 @@ quantities, like length, charge, energy, etc., are written in italics, and \
 units are written without italics.\n\nTo give a mundane example, we can state \
 as an equation that the length, ",
  Cell[BoxData[
-  FormBox["d", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["d", TraditionalForm]],ExpressionUUID->
   "1fd3f3b4-8d70-4846-8543-1dcbf8321b85"],
  ", is 3 feet, by writing:\n\n",
  Cell[BoxData[
   FormBox[
    RowBox[{"d", "=", 
-    RowBox[{"3", " ", "ft"}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+    RowBox[{"3", " ", "ft"}]}], TraditionalForm]],ExpressionUUID->
   "954c1cfa-dfcf-4523-8be5-efa761251cd7"],
  "\n\nThe ",
  Cell[BoxData[
-  FormBox["d", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["d", TraditionalForm]],ExpressionUUID->
   "8aa8da8a-9572-441d-bf69-8a753d301677"],
  " is italicized. The abbreviation for feet is not. You\[CloseCurlyQuote]d \
 read that as \[OpenCurlyDoubleQuote]the distance, ",
  Cell[BoxData[
-  FormBox["d", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["d", TraditionalForm]],ExpressionUUID->
   "7fc1b053-8289-42de-a199-1e45b5cbeebf"],
  ", is three feet.\[CloseCurlyDoubleQuote]\n\nThis is of course extremely \
 hard to tell in hand-written documents, but textbooks almost always make the \
@@ -382,31 +372,23 @@ the kind that we are talking about and that will actually show up soon is:\n\n\
    RowBox[{"V", "=", 
     RowBox[{"3", 
      StyleBox["V",
-      FontSlant->"Plain"]}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+      FontSlant->"Plain"]}]}], TraditionalForm]],ExpressionUUID->
   "c2a0f4e8-6a6f-4ab5-b3a8-b3a27acbc237"],
  "\n\nYou\[CloseCurlyQuote]d read that as \[OpenCurlyDoubleQuote]the voltage, \
 ",
  Cell[BoxData[
-  FormBox["V", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["V", TraditionalForm]],ExpressionUUID->
   "985ad3cb-51a8-4486-ada9-eae64a0a2ee4"],
  ", is three volts.\[CloseCurlyDoubleQuote]"
 }], "Text",
- CellChangeTimes->{{3.9772897869106073`*^9, 3.977289795201707*^9}, {
-  3.9772898315081043`*^9, 3.977289864013296*^9}, {3.9772899117328033`*^9, 
-  3.977289924198493*^9}, {3.977289964141177*^9, 3.9772900024064293`*^9}, {
-  3.977290057672676*^9, 3.9772902173826313`*^9}, {3.977290249917742*^9, 
-  3.977290376108016*^9}, {3.977290424499798*^9, 3.977290593439871*^9}, {
-  3.977291715563643*^9, 3.977291722927026*^9}, {3.977294283900195*^9, 
-  3.977294286450468*^9}, {3.977294348464924*^9, 3.977294483696389*^9}, {
-  3.9772955343878508`*^9, 3.977295694442525*^9}, {3.97729748242092*^9, 
-  3.977297483334684*^9}, {3.977297527971925*^9, 3.977298072519912*^9}, {
-  3.9772984230083733`*^9, 3.977298555944427*^9}, {3.9772987610666533`*^9, 
-  3.9772989303486233`*^9}, {3.977299865677476*^9, 3.977299878924679*^9}, {
-  3.977299909286178*^9, 
-  3.977300014186831*^9}},ExpressionUUID->"5ba73ba8-28e7-44eb-8de0-\
-4c0476552867"]
+ CellChangeTimes->CompressedData["
+1:eJxTTMoPSmViYGAQBmIQvUk5ll1k0VvHpJI0DhCd4vSBB0S/yWEQBNEKxd/F
+QDRfVJsEiG5raZEF0RWMvkogekKbqSaIbrHTsQXRKnG2jiD6XglzIIiO+Mcf
+DqJzhPVyQHQsZ9EPEG20KvYniE47V2MpBqRtss6B6RUP+hxB9CWPsiAQ7ZZ5
+5iqI1tI89xJE61b4nhQH0ru3ZoFpJqn/50C03GIBYQkgPcPlgR2I3m9R5w+i
+2ZSUMkH0G3XvOhD9aK3pZxD9Y9rdLyA6XmPlDxDd+usoqySQXqK+oQFEV952
+bgXRuYWOnSBabmcgmAYAIsyMXA==
+  "],ExpressionUUID->"5ba73ba8-28e7-44eb-8de0-4c0476552867"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -421,24 +403,21 @@ cd229921c605"],
 
 Cell[TextData[{
  "The units that have so far appeared are the Coulomb, the Joule, and the \
-Volt, abbreviated (C, J, and V), and the corresponding concepts or quantities \
+Volt, (abbreviated C, J, and V), and the corresponding concepts or quantities \
 are charge, energy, and voltage, usually denoted ",
  Cell[BoxData[
-  FormBox["q", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["q", TraditionalForm]],ExpressionUUID->
   "300ce0be-7703-4c41-9af2-fd4947e6d58c"],
  ", ",
  Cell[BoxData[
-  FormBox["E", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["E", TraditionalForm]],ExpressionUUID->
   "af93d553-7d0e-434d-8ff3-0745235fa19b"],
  ", and ",
  Cell[BoxData[
-  FormBox["V", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["V", TraditionalForm]],ExpressionUUID->
   "373564a4-f3bf-49c5-a4fa-b0d590c19a3e"],
  ".\n\nThe rest of this course will be meaningless if you fail to deeply \
-internalize these three units and concepts. They are foundational to all of \
+internalize these units and concepts. They are foundational to all of \
 electronics."
 }], "Text",
  CellChangeTimes->{{3.9772897869106073`*^9, 3.977289795201707*^9}, {
@@ -451,8 +430,9 @@ electronics."
   3.9772955343878508`*^9, 3.977295694442525*^9}, {3.97729748242092*^9, 
   3.977297483334684*^9}, {3.977297527971925*^9, 3.977298072519912*^9}, {
   3.9772984230083733`*^9, 3.9772986440726957`*^9}, {3.977298945704096*^9, 
-  3.9772989574484177`*^9}, {3.977300231306588*^9, 
-  3.977300320615101*^9}},ExpressionUUID->"08ae5301-ccb2-4aba-80d6-\
+  3.9772989574484177`*^9}, {3.977300231306588*^9, 3.977300320615101*^9}, {
+  3.97730097104498*^9, 
+  3.977300980448309*^9}},ExpressionUUID->"08ae5301-ccb2-4aba-80d6-\
 b20a8ae97a92"]
 }, Open  ]]
 }, Open  ]]
@@ -502,19 +482,19 @@ Cell[5218, 118, 4378, 62, 1135, "Text",ExpressionUUID->"e40729e5-26dd-44be-b526-
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[9633, 185, 369, 6, 82, "Section",ExpressionUUID->"67f87b5b-4258-4347-96ff-aa03a4145598"],
-Cell[10005, 193, 2649, 58, 616, "Text",ExpressionUUID->"0fd3bcb8-dcff-4557-b66c-106aa568c266"]
+Cell[10005, 193, 2803, 56, 644, "Text",ExpressionUUID->"0fd3bcb8-dcff-4557-b66c-106aa568c266"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[12691, 256, 312, 5, 82, "Section",ExpressionUUID->"d827a9dd-96e2-40eb-9056-aeb85a145f90"],
-Cell[13006, 263, 2112, 50, 350, "Text",ExpressionUUID->"d2e586a4-383f-4d17-89ff-c06f9e12da7a"]
+Cell[12845, 254, 312, 5, 82, "Section",ExpressionUUID->"d827a9dd-96e2-40eb-9056-aeb85a145f90"],
+Cell[13160, 261, 2058, 48, 350, "Text",ExpressionUUID->"d2e586a4-383f-4d17-89ff-c06f9e12da7a"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[15155, 318, 350, 6, 82, "Section",ExpressionUUID->"0bdf592a-200f-4399-a9af-037f1013cb1b"],
-Cell[15508, 326, 3619, 82, 832, "Text",ExpressionUUID->"5ba73ba8-28e7-44eb-8de0-4c0476552867"]
+Cell[15255, 314, 350, 6, 82, "Section",ExpressionUUID->"0bdf592a-200f-4399-a9af-037f1013cb1b"],
+Cell[15608, 322, 2891, 68, 832, "Text",ExpressionUUID->"5ba73ba8-28e7-44eb-8de0-4c0476552867"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[19164, 413, 399, 6, 82, "Section",ExpressionUUID->"80046b4c-d2dc-44b0-8c3b-cd229921c605"],
-Cell[19566, 421, 1700, 34, 178, "Text",ExpressionUUID->"08ae5301-ccb2-4aba-80d6-b20a8ae97a92"]
+Cell[18536, 395, 399, 6, 82, "Section",ExpressionUUID->"80046b4c-d2dc-44b0-8c3b-cd229921c605"],
+Cell[18938, 403, 1649, 32, 178, "Text",ExpressionUUID->"08ae5301-ccb2-4aba-80d6-b20a8ae97a92"]
 }, Open  ]]
 }, Open  ]]
 }
