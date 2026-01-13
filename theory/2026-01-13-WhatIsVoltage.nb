@@ -1,0 +1,104 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Wolfram 14.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       154,          7]
+NotebookDataLength[      3522,         94]
+NotebookOptionsPosition[      2826,         73]
+NotebookOutlinePosition[      3219,         89]
+CellTagsIndexPosition[      3176,         86]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["What is Voltage?", "Chapter",
+ CellChangeTimes->{{3.97728962342274*^9, 
+  3.977289627501096*^9}},ExpressionUUID->"d2045dd5-ae49-4de6-867a-\
+c651d57172e1"],
+
+Cell["Analog Electronics, 2026-01-13", "Subtitle",
+ CellChangeTimes->{{3.97728965813264*^9, 
+  3.97728966770008*^9}},ExpressionUUID->"e8206456-eca3-43f3-9d73-\
+0dbb9fef0bab"],
+
+Cell[CellGroupData[{
+
+Cell["First, What is Charge?", "Section",
+ CellChangeTimes->{{3.9772897343047647`*^9, 
+  3.977289742778789*^9}},ExpressionUUID->"3de9606e-89b4-4f70-9dc7-\
+918a0345ca37"],
+
+Cell["\<\
+One of the greatest discoveries in physics, by William Watson (in 1746) and \
+Benjamin Franklin (in 1747), was that there is something he called \
+\[OpenCurlyDoubleQuote]electrical fluid,\[CloseCurlyDoubleQuote] and which we \
+now refer to as charge.
+
+Famously, in 1752, Benjamin Franklin flew a kite carrying a metal key beneath \
+it into a storm cloud and then brought the kite and the key back down. The \
+key was holding some of the electrical fluid.
+
+How do  know we have charge (or \[OpenCurlyDoubleQuote]electrical fluid\
+\[CloseCurlyDoubleQuote])? We catch it in a jar invented to hold charge in \
+1745 or 1746. It was invented independently by two people, Ewald Georg von \
+Kleist, and Pieter van Musschenbroek. Van Musschenbroek lived in Leiden, and \
+the jar is known as the Leyden jar. It is a glass jar coated with metal.
+
+Nowadays, and emerging at the time, was the observation that the \
+\[OpenCurlyDoubleQuote]electrical fluid\[CloseCurlyDoubleQuote] barely moved \
+through glass or not at all, and that it easily moved through metal.
+
+I only need you to accept that there is something called charge, and that it \
+easily moves through metal. You don\[CloseCurlyQuote]t yet have to have a \
+mental picture of what charge is.\
+\>", "Text",
+ CellChangeTimes->{{3.9772897869106073`*^9, 3.977289795201707*^9}, {
+  3.9772898315081043`*^9, 3.977289864013296*^9}, {3.9772899117328033`*^9, 
+  3.977289924198493*^9}, {3.977289964141177*^9, 3.9772900024064293`*^9}, {
+  3.977290057672676*^9, 3.9772902173826313`*^9}, {3.977290249917742*^9, 
+  3.977290376108016*^9}, {3.977290424499798*^9, 
+  3.977290593439871*^9}},ExpressionUUID->"bc0b98c7-aaae-44a3-adae-\
+2d6a74dbb68a"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{808, 911},
+WindowMargins->{{240, Automatic}, {Automatic, 13}},
+FrontEndVersion->"14.3 for Mac OS X ARM (64-bit) (July 8, 2025)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"192e574c-aafc-474c-aff9-87c7c2443447"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[576, 22, 160, 3, 84, "Chapter",ExpressionUUID->"d2045dd5-ae49-4de6-867a-c651d57172e1"],
+Cell[739, 27, 174, 3, 65, "Subtitle",ExpressionUUID->"e8206456-eca3-43f3-9d73-0dbb9fef0bab"],
+Cell[CellGroupData[{
+Cell[938, 34, 169, 3, 82, "Section",ExpressionUUID->"3de9606e-89b4-4f70-9dc7-918a0345ca37"],
+Cell[1110, 39, 1688, 30, 506, "Text",ExpressionUUID->"bc0b98c7-aaae-44a3-adae-2d6a74dbb68a"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
