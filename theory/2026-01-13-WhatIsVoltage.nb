@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       154,          7]
-NotebookDataLength[   1526235,      25151]
-NotebookOptionsPosition[   1523535,      25095]
-NotebookOutlinePosition[   1524560,      25122]
-CellTagsIndexPosition[   1524517,      25119]
+NotebookDataLength[   1526338,      25153]
+NotebookOptionsPosition[   1523638,      25097]
+NotebookOutlinePosition[   1524663,      25124]
+CellTagsIndexPosition[   1524620,      25121]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -25070,7 +25070,9 @@ are charge, energy, and voltage, usually denoted ",
   "af93d553-7d0e-434d-8ff3-0745235fa19b"],
  ", and ",
  Cell[BoxData[
-  FormBox["V", TraditionalForm]],ExpressionUUID->
+  FormBox[
+   StyleBox["\[ScriptCapitalV]",
+    FontSlant->"Italic"], TraditionalForm]],ExpressionUUID->
   "373564a4-f3bf-49c5-a4fa-b0d590c19a3e"],
  ".\n\nThe rest of this course will be meaningless if you fail to deeply \
 internalize these units and concepts. They are foundational to all of \
@@ -25087,8 +25089,8 @@ electronics."
   3.977297483334684*^9}, {3.977297527971925*^9, 3.977298072519912*^9}, {
   3.9772984230083733`*^9, 3.9772986440726957`*^9}, {3.977298945704096*^9, 
   3.9772989574484177`*^9}, {3.977300231306588*^9, 3.977300320615101*^9}, {
-  3.97730097104498*^9, 
-  3.977300980448309*^9}},ExpressionUUID->"08ae5301-ccb2-4aba-80d6-\
+  3.97730097104498*^9, 3.977300980448309*^9}, {3.977570031426489*^9, 
+  3.9775700314265337`*^9}},ExpressionUUID->"08ae5301-ccb2-4aba-80d6-\
 b20a8ae97a92"]
 }, Open  ]]
 }, Open  ]]
@@ -25150,7 +25152,7 @@ Cell[1518251, 24969, 3168, 77, 832, "Text",ExpressionUUID->"5ba73ba8-28e7-44eb-8
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[1521456, 25051, 399, 6, 82, "Section",ExpressionUUID->"80046b4c-d2dc-44b0-8c3b-cd229921c605"],
-Cell[1521858, 25059, 1649, 32, 178, "Text",ExpressionUUID->"08ae5301-ccb2-4aba-80d6-b20a8ae97a92"]
+Cell[1521858, 25059, 1752, 34, 178, "Text",ExpressionUUID->"08ae5301-ccb2-4aba-80d6-b20a8ae97a92"]
 }, Open  ]]
 }, Open  ]]
 }

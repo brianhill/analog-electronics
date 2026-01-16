@@ -1,0 +1,212 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Wolfram 14.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       154,          7]
+NotebookDataLength[      8206,        204]
+NotebookOptionsPosition[      6434,        164]
+NotebookOutlinePosition[      7457,        191]
+CellTagsIndexPosition[      7414,        188]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Resistance, Power, and Voltage Examples", "Chapter",
+ CellChangeTimes->{{3.97728962342274*^9, 3.977289627501096*^9}, {
+  3.9775280417432537`*^9, 3.977528043659202*^9}, {3.977557086595022*^9, 
+  3.977557089276721*^9}, {3.9775701465544252`*^9, 
+  3.977570153093915*^9}},ExpressionUUID->"d2045dd5-ae49-4de6-867a-\
+c651d57172e1"],
+
+Cell["Analog Electronics, 2026-01-19", "Subtitle",
+ CellChangeTimes->{{3.97728965813264*^9, 3.97728966770008*^9}, {
+  3.977528046840487*^9, 3.977528047115769*^9}, {3.977570142668344*^9, 
+  3.977570142906973*^9}},ExpressionUUID->"e8206456-eca3-43f3-9d73-\
+0dbb9fef0bab"],
+
+Cell[CellGroupData[{
+
+Cell["Power and Resistance", "Section",
+ CellChangeTimes->{{3.9772897343047647`*^9, 3.977289742778789*^9}, {
+  3.9772916970235863`*^9, 3.977291702857244*^9}, {3.977560236532971*^9, 
+  3.977560237117565*^9}, {3.9775710284072638`*^9, 
+  3.977571079209311*^9}},ExpressionUUID->"3657b009-cad2-43f2-a9ea-\
+0351e4ee43de"],
+
+Cell[TextData[{
+ "\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"1", " ", 
+     StyleBox["W",
+      FontSlant->"Plain"]}], "=", 
+    FractionBox[
+     RowBox[{"1", 
+      StyleBox["J",
+       FontSlant->"Plain"]}], 
+     RowBox[{"1", 
+      StyleBox["s",
+       FontSlant->"Plain"]}]]}], TraditionalForm]],ExpressionUUID->
+  "92346e18-893a-4322-b9d2-3ea3abce0b49"],
+ "\n\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{"P", "=", 
+    RowBox[{"1", "kW"}]}], TraditionalForm]],ExpressionUUID->
+  "16b618ad-7a00-437e-9392-d5fa26a64174"],
+ "\n\n\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"1", "\[CapitalOmega]"}], "=", 
+    FractionBox[
+     RowBox[{"1", 
+      StyleBox["V",
+       FontSlant->"Plain"]}], 
+     RowBox[{"1", " ", 
+      StyleBox["A",
+       FontSlant->"Plain"]}]]}], TraditionalForm]],ExpressionUUID->
+  "83f4847c-fba5-48ac-a7c9-10e42a9cde8c"],
+ "\n\n",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    StyleBox["\[ScriptCapitalV]",
+     FontSlant->"Italic"], "=", 
+    StyleBox[
+     RowBox[{"I", "\[VeryThinSpace]", "R"}],
+     FontSize->18]}], TraditionalForm]],ExpressionUUID->
+  "29a433a3-1d32-4454-a045-bd9f91b8e4b4"]
+}], "Text",
+ CellChangeTimes->CompressedData["
+1:eJxTTMoPSmViYGAQAWIQvUk5ll1k0VvHpJI0DhCd4vSBB0S/yWEQBNEKxd/F
+QDRfVJsEiG5raZEF0RWMvkogekKbqSaIbrHTsQXRKnG2jiD6XglzIIiO+Mcf
+DqJzhPVyQHQsZ9EPEG20KvYniE47V2MpBqRtss6B6RUP+hxB9CWPsiAQfWiv
+dK84kPa4tRJMhxSsPCYBpHUPbAPTM3wqhGcA6Z3SG61A9BVXDXsQ/cRGIA4s
+/kA4BUSLVRxOBdGpWrVfQPRC/e2/QXRy0omTM0Hm3Nt7GkS/KfW9AKJfeNSD
+6dMtCzbNAdKzlNcfBtFRbj/j5oLC5eCMVBANAMlgnw8=
+  "],ExpressionUUID->"0f41de4e-6048-4501-bbca-4d101b9869da"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["How Much Power Does a Resistor Consume?", "Section",
+ CellChangeTimes->{{3.9772897343047647`*^9, 3.977289742778789*^9}, {
+  3.977557185041368*^9, 3.977557199818494*^9}, {3.977560920391399*^9, 
+  3.9775609285410013`*^9}, {3.977561704893649*^9, 3.9775617124536877`*^9}, {
+  3.977562699357638*^9, 
+  3.977562712075577*^9}},ExpressionUUID->"247f0bb3-6f61-4641-aa74-\
+716d2e275f46"],
+
+Cell[TextData[{
+ "A blow drier makes heat by pushing current through a resistor. Let\
+\[CloseCurlyQuote]s figure out what more precisely what must be inside it. Of \
+course there is a fan to push the heat out and onto your hair.\n\nFor \
+simplicity, let\[CloseCurlyQuote]s assume that the wall socket that the blow \
+drier is plugged into delivers 100 V. It actually delivers \
+\[OpenCurlyDoubleQuote]AC voltage\[CloseCurlyDoubleQuote] or \
+\[OpenCurlyDoubleQuote]AC power\[CloseCurlyDoubleQuote] and we will get into \
+alternating current later. Assuming the wall socket just supplies 100 V \
+regardless of what you plug into it is good enough for the moment.\n\n",
+ StyleBox["We will do this specific example and the general case in class \
+together, not in the handout, so again, whoever is bringing Lance up to speed \
+has some work to do. By the end we will have a new formula!",
+  FontWeight->"Bold",
+  FontSlant->"Italic"]
+}], "Text",
+ CellChangeTimes->{{3.977562723315981*^9, 3.977562815161985*^9}, {
+  3.97756288835224*^9, 3.9775629350664597`*^9}, {3.9775632743796167`*^9, 
+  3.977563466287759*^9}},ExpressionUUID->"94ed58f1-072b-45f4-ae0c-\
+d301b31e083e"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Conclusion", "Section",
+ CellChangeTimes->{{3.9772897343047647`*^9, 3.977289742778789*^9}, {
+  3.9772916970235863`*^9, 3.977291702857244*^9}, {3.977294502463111*^9, 
+  3.977294507440075*^9}, {3.97729775554117*^9, 3.977297756528002*^9}, {
+  3.9772983764625683`*^9, 3.977298377420739*^9}, {3.977298569687125*^9, 
+  3.977298572354394*^9}},ExpressionUUID->"80046b4c-d2dc-44b0-8c3b-\
+cd229921c605"],
+
+Cell["", "Text",
+ CellChangeTimes->{{3.9772897869106073`*^9, 3.977289795201707*^9}, {
+   3.9772898315081043`*^9, 3.977289864013296*^9}, {3.9772899117328033`*^9, 
+   3.977289924198493*^9}, {3.977289964141177*^9, 3.9772900024064293`*^9}, {
+   3.977290057672676*^9, 3.9772902173826313`*^9}, {3.977290249917742*^9, 
+   3.977290376108016*^9}, {3.977290424499798*^9, 3.977290593439871*^9}, {
+   3.977291715563643*^9, 3.977291722927026*^9}, {3.977294283900195*^9, 
+   3.977294286450468*^9}, {3.977294348464924*^9, 3.977294483696389*^9}, {
+   3.9772955343878508`*^9, 3.977295694442525*^9}, {3.97729748242092*^9, 
+   3.977297483334684*^9}, {3.977297527971925*^9, 3.977298072519912*^9}, {
+   3.9772984230083733`*^9, 3.9772986440726957`*^9}, {3.977298945704096*^9, 
+   3.9772989574484177`*^9}, {3.977300231306588*^9, 3.977300320615101*^9}, {
+   3.97730097104498*^9, 3.977300980448309*^9}, {3.977561685536745*^9, 
+   3.977561689606388*^9}, {3.977561847699967*^9, 3.977562006365676*^9}, {
+   3.9775623661904573`*^9, 3.97756266950581*^9}, {3.977563481405057*^9, 
+   3.977563583846772*^9}, {3.977563973842435*^9, 3.977563974084642*^9}, {
+   3.977569868877768*^9, 3.977569868877883*^9}, 
+   3.977571133242532*^9},ExpressionUUID->"08ae5301-ccb2-4aba-80d6-\
+b20a8ae97a92"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{808, 911},
+WindowMargins->{{352, Automatic}, {Automatic, 5}},
+PrintingCopies->1,
+PrintingPageRange->{1, Automatic},
+SpellingDictionaries->{"CorrectWords"->{
+ "Acck", "Fasshauer\[CloseCurlyQuote]s", "Giordano", "Eqs", "Eq", 
+  "unstretched", "Johannessen", "waaaaay", "Tahm", "Hexi", "Rania", "wifi", 
+  "pts", "Belk", "Wikimedia", "\[Omega]\[CloseCurlyQuote]s", 
+  "\[Theta]\[CloseCurlyQuote]s", "\[Alpha]\[CloseCurlyQuote]s", 
+  "proportionalities", "Lotke", "Neils", "dimensionful", "overconstrains", 
+  "levelspec", "uno", "tres", "cuatro", "cinco", "seis", "Jin", "Choy", 
+  "Zaki", "Howie", "screenshotted", "Sanderson", "Keras", "th", 
+  "Musschenbroek", "Pieter", "Kleist", "Leyden"}},
+FrontEndVersion->"14.3 for Mac OS X ARM (64-bit) (July 8, 2025)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"192e574c-aafc-474c-aff9-87c7c2443447"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[576, 22, 331, 5, 84, "Chapter",ExpressionUUID->"d2045dd5-ae49-4de6-867a-c651d57172e1"],
+Cell[910, 29, 269, 4, 65, "Subtitle",ExpressionUUID->"e8206456-eca3-43f3-9d73-0dbb9fef0bab"],
+Cell[CellGroupData[{
+Cell[1204, 37, 315, 5, 82, "Section",ExpressionUUID->"3657b009-cad2-43f2-a9ea-0351e4ee43de"],
+Cell[1522, 44, 1603, 53, 254, "Text",ExpressionUUID->"0f41de4e-6048-4501-bbca-4d101b9869da"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3162, 102, 383, 6, 82, "Section",ExpressionUUID->"247f0bb3-6f61-4641-aa74-716d2e275f46"],
+Cell[3548, 110, 1165, 19, 342, "Text",ExpressionUUID->"94ed58f1-072b-45f4-ae0c-d301b31e083e"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[4750, 134, 399, 6, 82, "Section",ExpressionUUID->"80046b4c-d2dc-44b0-8c3b-cd229921c605"],
+Cell[5152, 142, 1254, 18, 42, "Text",ExpressionUUID->"08ae5301-ccb2-4aba-80d6-b20a8ae97a92"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
