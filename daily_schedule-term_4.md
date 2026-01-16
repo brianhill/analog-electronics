@@ -16,5 +16,5 @@ See also [Daily Schedule-Term 5](./daily_schedule-term_5.html)
 
 ### Week 2 &mdash;
 
-* Tuesday, Jan. 19
+* Tuesday, Jan. 20
 * Friday, Jan. 23

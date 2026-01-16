@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       154,          7]
-NotebookDataLength[      8206,        204]
-NotebookOptionsPosition[      6434,        164]
-NotebookOutlinePosition[      7457,        191]
-CellTagsIndexPosition[      7414,        188]
+NotebookDataLength[      8255,        205]
+NotebookOptionsPosition[      6483,        165]
+NotebookOutlinePosition[      7506,        192]
+CellTagsIndexPosition[      7463,        189]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -27,10 +27,11 @@ Cell["Resistance, Power, and Voltage Examples", "Chapter",
   3.977570153093915*^9}},ExpressionUUID->"d2045dd5-ae49-4de6-867a-\
 c651d57172e1"],
 
-Cell["Analog Electronics, 2026-01-19", "Subtitle",
+Cell["Analog Electronics, 2026-01-20", "Subtitle",
  CellChangeTimes->{{3.97728965813264*^9, 3.97728966770008*^9}, {
   3.977528046840487*^9, 3.977528047115769*^9}, {3.977570142668344*^9, 
-  3.977570142906973*^9}},ExpressionUUID->"e8206456-eca3-43f3-9d73-\
+  3.977570142906973*^9}, {3.977571781757244*^9, 
+  3.977571782772765*^9}},ExpressionUUID->"e8206456-eca3-43f3-9d73-\
 0dbb9fef0bab"],
 
 Cell[CellGroupData[{
@@ -192,18 +193,18 @@ CellTagsIndex->{}
 Notebook[{
 Cell[CellGroupData[{
 Cell[576, 22, 331, 5, 84, "Chapter",ExpressionUUID->"d2045dd5-ae49-4de6-867a-c651d57172e1"],
-Cell[910, 29, 269, 4, 65, "Subtitle",ExpressionUUID->"e8206456-eca3-43f3-9d73-0dbb9fef0bab"],
+Cell[910, 29, 318, 5, 65, "Subtitle",ExpressionUUID->"e8206456-eca3-43f3-9d73-0dbb9fef0bab"],
 Cell[CellGroupData[{
-Cell[1204, 37, 315, 5, 82, "Section",ExpressionUUID->"3657b009-cad2-43f2-a9ea-0351e4ee43de"],
-Cell[1522, 44, 1603, 53, 254, "Text",ExpressionUUID->"0f41de4e-6048-4501-bbca-4d101b9869da"]
+Cell[1253, 38, 315, 5, 82, "Section",ExpressionUUID->"3657b009-cad2-43f2-a9ea-0351e4ee43de"],
+Cell[1571, 45, 1603, 53, 254, "Text",ExpressionUUID->"0f41de4e-6048-4501-bbca-4d101b9869da"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[3162, 102, 383, 6, 82, "Section",ExpressionUUID->"247f0bb3-6f61-4641-aa74-716d2e275f46"],
-Cell[3548, 110, 1165, 19, 342, "Text",ExpressionUUID->"94ed58f1-072b-45f4-ae0c-d301b31e083e"]
+Cell[3211, 103, 383, 6, 82, "Section",ExpressionUUID->"247f0bb3-6f61-4641-aa74-716d2e275f46"],
+Cell[3597, 111, 1165, 19, 342, "Text",ExpressionUUID->"94ed58f1-072b-45f4-ae0c-d301b31e083e"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[4750, 134, 399, 6, 82, "Section",ExpressionUUID->"80046b4c-d2dc-44b0-8c3b-cd229921c605"],
-Cell[5152, 142, 1254, 18, 42, "Text",ExpressionUUID->"08ae5301-ccb2-4aba-80d6-b20a8ae97a92"]
+Cell[4799, 135, 399, 6, 82, "Section",ExpressionUUID->"80046b4c-d2dc-44b0-8c3b-cd229921c605"],
+Cell[5201, 143, 1254, 18, 42, "Text",ExpressionUUID->"08ae5301-ccb2-4aba-80d6-b20a8ae97a92"]
 }, Open  ]]
 }, Open  ]]
 }
