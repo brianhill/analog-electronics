@@ -22,5 +22,5 @@ See also [Daily Schedule-Term 5](./daily_schedule-term_5.html)
   * Theory: [Resistance, Power, and Voltage Examples - FORTHCOMING](./theory/2026-01-20-ResistantancePowerAndVoltageExamples.nb.pdf)
   * Practice: Let's build the two second-simplest circuits! You will start reading circuit diagrams!
     * Practice: Build the circuit diagrammed in [Two Resistors in Series](./circuit-diagrams/TwoResistorsInSeries.jpeg)
-    * Practice: Build the circuit diagrammed in [Two Resistors in Parallel](./circuit-diagrams/TwoResistorisInParallel.jpeg)
+    * Practice: Build the circuit diagrammed in [Two Resistors in Parallel](./circuit-diagrams/TwoResistorsInParallel.jpeg)
 * Friday, Jan. 23
