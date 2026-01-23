@@ -24,10 +24,10 @@ See also [Daily Schedule-Term 5](./daily_schedule-term_5.html)
     * Build the circuit diagrammed in [Two Resistors in Series](./circuit-diagrams/TwoResistorsInSeries.jpeg)
     * Build the circuit diagrammed in [Two Resistors in Parallel](./circuit-diagrams/TwoResistorsInParallel.jpeg)
 * Friday, Jan. 23
-  * Theory: Come with the 20 problems in the last handout completed! We will go over them at the beginning of class. 20 problems is enough for each of you to answer 4 of them.
-  * Practice: A circuit that lights an LED
+  * Theory: Come with the 20 problems in the last handout completed! We will go over them at the beginning of class.
+  * Practice: A circuit that lights an LED solidly
   * Theory: [Kirchhoff's Laws](./theory/2026-01-23-KirchhoffsLaws.nb.pdf)
-  * Practice: Let's go through Mims' first circuit on pp. 14-18, &ldquo;A Simple LED Flasher&rdquo;
+  * Practice: Let's build Mims' first circuit on pp. 14-18, a circuit that flashes an LED
 
 ### Week 3 &mdash; 
 
