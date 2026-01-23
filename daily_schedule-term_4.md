@@ -15,7 +15,7 @@ See also [Daily Schedule-Term 5](./daily_schedule-term_5.html)
   * Practice: Resistor color coding
   * Practice: Build the circuit diagrammed in [The Simplest Possible Circuit](./circuit-diagrams/TheSimplestPossibleCircuit.jpeg)
 
-### Week 2 &mdash; Power &mdash; Circuit Diagrams
+### Week 2 &mdash; Power &mdash; Circuit Diagrams &mdash; Kirchhoff's Laws
 
 * Tuesday, Jan. 20
   * Practice: The circuit diagram of [The Simplest Possible Circuit](./circuit-diagrams/TheSimplestPossibleCircuit.jpeg) that you built last time
@@ -26,5 +26,10 @@ See also [Daily Schedule-Term 5](./daily_schedule-term_5.html)
 * Friday, Jan. 23
   * Theory: Come with the 20 problems in the last handout completed! We will go over them at the beginning of class. 20 problems is enough for each of you to answer 4 of them.
   * Practice: A circuit that lights an LED
+  * Theory: [Kirchhoff's Laws](./theory/2026-01-23-KirchhoffsLaws.nb.pdf)
   * Practice: Let's go through Mims' first circuit on pp. 14-18, &ldquo;A Simple LED Flasher&rdquo;
-  * Theory: [Resistors in Series and in Parallel](./theory/2026-01-23-ResistorsInSeriesAndInParallel.nb.pdf)
+
+### Week 3 &mdash; 
+
+* Tuesday, Jan. 27
+  * Theory: [Resistors in Series and In Parallel - FORTHCOMING](./theory/2026-01-27-ResistorsInSeriesAndInParallel.nb.pdf)
