@@ -44,11 +44,11 @@ See also [Daily Schedule-Term 5](./daily_schedule-term_5.html)
 * Tuesday, Feb. 3
   * Practice: We had a ton of theory on Friday. Today, we'll just do practice using pp. 20-21 of Mims Workbook I
 * Friday, Feb. 6
-  * Theory: We started on [10 Practice Problems](./2026-02-06-NumericalAnalysis.nb.pdf)
+  * Theory: We started on [10 Practice Problems](./theory/2026-02-06-NumericalAnalysis.nb.pdf)
   * More Practice: We did pp. 22-25 of Mims Workbook I, which covered relays and re-purposing an ammeter as a voltmeter
 
 ### Week 5
 * Tuesday, Feb. 10
-  * Theory: Go over the [10 Practice Problems](./2026-02-06-NumericalAnalysis.nb.pdf) handed out on Friday
+  * Theory: Go over the [10 Practice Problems](./theory/2026-02-06-NumericalAnalysis.nb.pdf) handed out on Friday
   * Practice: We'll resume at p. 26 of Mims Workbook I
 * Friday, Feb. 13
