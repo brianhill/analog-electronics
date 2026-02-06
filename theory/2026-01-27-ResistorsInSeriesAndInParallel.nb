@@ -10,39 +10,41 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       154,          7]
-NotebookDataLength[   4835728,      79338]
-NotebookOptionsPosition[   4834107,      79301]
-NotebookOutlinePosition[   4835172,      79329]
-CellTagsIndexPosition[   4835129,      79326]
+NotebookDataLength[   4835815,      79340]
+NotebookOptionsPosition[   4834193,      79303]
+NotebookOutlinePosition[   4835258,      79331]
+CellTagsIndexPosition[   4835215,      79328]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
 
 Cell[CellGroupData[{
-Cell[TextData[{
- "Resistors in Series and in Parallel\n",
- StyleBox["WRITEUP OF WHAT WE DID IN THE MUSEUM STILL FORTHCOMING",
-  FontWeight->"Bold"]
-}], "Chapter",
+Cell["Resistors in Series and in Parallel", "Chapter",
  CellChangeTimes->{{3.97728962342274*^9, 3.977289627501096*^9}, {
   3.9775280417432537`*^9, 3.977528043659202*^9}, {3.977557086595022*^9, 
   3.977557089276721*^9}, {3.9775701465544252`*^9, 3.977570153093915*^9}, {
   3.978137065354989*^9, 3.9781370726003*^9}, {3.978139207834571*^9, 
   3.978139211747902*^9}, {3.9781673663889093`*^9, 3.978167372208755*^9}, {
   3.9781674465380087`*^9, 3.978167447512197*^9}, {3.9781676797401667`*^9, 
-  3.978167680654418*^9}, {3.978765321707265*^9, 
-  3.9787653337431383`*^9}},ExpressionUUID->"d2045dd5-ae49-4de6-867a-\
+  3.978167680654418*^9}, {3.978765321707265*^9, 3.9787653337431383`*^9}, {
+  3.979374799682066*^9, 
+  3.979374833984206*^9}},ExpressionUUID->"d2045dd5-ae49-4de6-867a-\
 c651d57172e1"],
 
-Cell["Analog Electronics, 2026-01-27", "Subtitle",
+Cell["\<\
+Analog Electronics, 2026-01-27
+
+This writeup of what we did in the museum together on the board is still only \
+skeletal.\
+\>", "Subtitle",
  CellChangeTimes->{{3.97728965813264*^9, 3.97728966770008*^9}, {
   3.977528046840487*^9, 3.977528047115769*^9}, {3.977570142668344*^9, 
   3.977570142906973*^9}, {3.977571781757244*^9, 3.977571782772765*^9}, {
   3.9781392138940763`*^9, 3.978139214062749*^9}, {3.978167356324271*^9, 
   3.978167356517761*^9}, {3.978513676090888*^9, 3.978513676473041*^9}, {
-  3.978765318946458*^9, 
-  3.978765319530307*^9}},ExpressionUUID->"e8206456-eca3-43f3-9d73-\
+  3.978765318946458*^9, 3.978765319530307*^9}, {3.979374837552408*^9, 
+  3.979374841694344*^9}},ExpressionUUID->"e8206456-eca3-43f3-9d73-\
 0dbb9fef0bab"],
 
 Cell[CellGroupData[{
@@ -79329,15 +79331,15 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[576, 22, 729, 13, 201, "Chapter",ExpressionUUID->"d2045dd5-ae49-4de6-867a-c651d57172e1"],
-Cell[1308, 37, 513, 8, 65, "Subtitle",ExpressionUUID->"e8206456-eca3-43f3-9d73-0dbb9fef0bab"],
+Cell[576, 22, 670, 10, 84, "Chapter",ExpressionUUID->"d2045dd5-ae49-4de6-867a-c651d57172e1"],
+Cell[1249, 34, 658, 13, 182, "Subtitle",ExpressionUUID->"e8206456-eca3-43f3-9d73-0dbb9fef0bab"],
 Cell[CellGroupData[{
-Cell[1846, 49, 793, 12, 82, "Section",ExpressionUUID->"e092494d-1e4a-4d63-be82-3a2b4461ddee"],
-Cell[2642, 63, 2282663, 37433, 333, "Input",ExpressionUUID->"d0fb06d9-dd80-4c9d-8035-1200a9289287"]
+Cell[1932, 51, 793, 12, 82, "Section",ExpressionUUID->"e092494d-1e4a-4d63-be82-3a2b4461ddee"],
+Cell[2728, 65, 2282663, 37433, 333, "Input",ExpressionUUID->"d0fb06d9-dd80-4c9d-8035-1200a9289287"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2285342, 37501, 746, 11, 82, "Section",ExpressionUUID->"b1142c58-521a-42bc-8789-64c95116c1ce"],
-Cell[2286091, 37514, 2547988, 41783, 331, "Input",ExpressionUUID->"83a218f6-fd52-420a-b7d8-068eda64eb72"]
+Cell[2285428, 37503, 746, 11, 82, "Section",ExpressionUUID->"b1142c58-521a-42bc-8789-64c95116c1ce"],
+Cell[2286177, 37516, 2547988, 41783, 331, "Input",ExpressionUUID->"83a218f6-fd52-420a-b7d8-068eda64eb72"]
 }, Open  ]]
 }, Open  ]]
 }

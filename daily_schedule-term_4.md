@@ -35,7 +35,7 @@ See also [Daily Schedule-Term 5](./daily_schedule-term_5.html)
   * Theory: Resistors in Series and In Parallel Examples from Howard Gerrish, *Electronics*
   	* Threory: How does mileage in mpg add? Example: two vehicles with 15mpg and 30mpg.
   * Practice: Let's build as much as we can on pp. 19-22, first a black box test circuit, and then a series of circuits that illustrate switches
-  * Theory: [Resistors in Series and In Parallel - WRITEUP OF WHAT WE DID ON THE MUSEUM TOGETHER IS STILL FORTHCOMING](./theory/2026-01-27-ResistorsInSeriesAndInParallel.nb.pdf)
+  * Theory: [Resistors in Series and In Parallel](./theory/2026-01-27-ResistorsInSeriesAndInParallel.nb.pdf) This writeup of what we did in the museum together on the board is still only skeletal
 * Friday, Jan. 30
   * Theory: [Voltage Dividers and Capacitors](./theory/2026-01-30-VoltageDividersAndCapacitors.nb.pdf)
 
