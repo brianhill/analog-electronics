@@ -29,11 +29,19 @@ See also [Daily Schedule-Term 5](./daily_schedule-term_5.html)
   * Theory: [Kirchhoff's Laws](./theory/2026-01-23-KirchhoffsLaws.nb.pdf)
   * Practice: Let's build Mims' first circuit on pp. 14-18, a circuit that flashes an LED
 
-### Week 3 &mdash; Resistors in Series and Parallel &mdash; Voltage Dividers &mdash; Switches
+### Week 3 &mdash; Resistors in Series and Parallel &mdash; Voltage Dividers
 
 * Tuesday, Jan. 27
   * Theory: Resistors in Series and In Parallel Examples from Howard Gerrish, *Electronics*
   	* Threory: How does mileage in mpg add? Example: two vehicles with 15mpg and 30mpg.
   * Practice: Let's build as much as we can on pp. 19-22, first a black box test circuit, and then a series of circuits that illustrate switches
+  * Theory: [Resistors in Series and In Parallel - WRITEUP OF WHAT WE DID ON THE MUSEUM TOGETHER IS STILL FORTHCOMING](./theory/2026-01-27-ResistorsInSeriesAndInParallel.nb.pdf)
 * Friday, Jan. 30
-  * Theory: [Resistors in Series and In Parallel - FORTHCOMING](./theory/2026-01-30-ResistorsInSeriesAndInParallel.nb.pdf)
+  * Theory: [Voltage Dividers and Capacitors](./theory/2026-01-30-VoltageDividersAndCapacitors.nb.pdf)
+
+### Week 4 &mdash; Switches of Various Kinds &mdash; Switches in Series and in Parallel &mdash; Resistors in Practice &mdash; Building a Voltmeter
+
+* Tuesday, Feb. 3
+  * Practice: We had a ton of theory on Friday. Today, we'll just do practice starting with p. 20 of Mims.
+* Friday, Feb. 6
+  * More Practice: We'll try to get all the way through p. 26 of Mims Workbook I
