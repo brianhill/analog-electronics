@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       154,          7]
-NotebookDataLength[   4835815,      79340]
-NotebookOptionsPosition[   4834193,      79303]
-NotebookOutlinePosition[   4835258,      79331]
-CellTagsIndexPosition[   4835215,      79328]
+NotebookDataLength[   4835879,      79341]
+NotebookOptionsPosition[   4834257,      79304]
+NotebookOutlinePosition[   4835322,      79332]
+CellTagsIndexPosition[   4835279,      79329]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -35,8 +35,8 @@ c651d57172e1"],
 Cell["\<\
 Analog Electronics, 2026-01-27
 
-This writeup of what we did in the museum together on the board is still only \
-skeletal.\
+This writeup of what we did in the museum together only has the circuit \
+diagrams, not the derivations.\
 \>", "Subtitle",
  CellChangeTimes->{{3.97728965813264*^9, 3.97728966770008*^9}, {
   3.977528046840487*^9, 3.977528047115769*^9}, {3.977570142668344*^9, 
@@ -44,7 +44,8 @@ skeletal.\
   3.9781392138940763`*^9, 3.978139214062749*^9}, {3.978167356324271*^9, 
   3.978167356517761*^9}, {3.978513676090888*^9, 3.978513676473041*^9}, {
   3.978765318946458*^9, 3.978765319530307*^9}, {3.979374837552408*^9, 
-  3.979374841694344*^9}},ExpressionUUID->"e8206456-eca3-43f3-9d73-\
+  3.979374841694344*^9}, {3.979734470157804*^9, 
+  3.979734484599687*^9}},ExpressionUUID->"e8206456-eca3-43f3-9d73-\
 0dbb9fef0bab"],
 
 Cell[CellGroupData[{
@@ -79332,14 +79333,14 @@ CellTagsIndex->{}
 Notebook[{
 Cell[CellGroupData[{
 Cell[576, 22, 670, 10, 84, "Chapter",ExpressionUUID->"d2045dd5-ae49-4de6-867a-c651d57172e1"],
-Cell[1249, 34, 658, 13, 182, "Subtitle",ExpressionUUID->"e8206456-eca3-43f3-9d73-0dbb9fef0bab"],
+Cell[1249, 34, 722, 14, 182, "Subtitle",ExpressionUUID->"e8206456-eca3-43f3-9d73-0dbb9fef0bab"],
 Cell[CellGroupData[{
-Cell[1932, 51, 793, 12, 82, "Section",ExpressionUUID->"e092494d-1e4a-4d63-be82-3a2b4461ddee"],
-Cell[2728, 65, 2282663, 37433, 333, "Input",ExpressionUUID->"d0fb06d9-dd80-4c9d-8035-1200a9289287"]
+Cell[1996, 52, 793, 12, 82, "Section",ExpressionUUID->"e092494d-1e4a-4d63-be82-3a2b4461ddee"],
+Cell[2792, 66, 2282663, 37433, 333, "Input",ExpressionUUID->"d0fb06d9-dd80-4c9d-8035-1200a9289287"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2285428, 37503, 746, 11, 82, "Section",ExpressionUUID->"b1142c58-521a-42bc-8789-64c95116c1ce"],
-Cell[2286177, 37516, 2547988, 41783, 331, "Input",ExpressionUUID->"83a218f6-fd52-420a-b7d8-068eda64eb72"]
+Cell[2285492, 37504, 746, 11, 82, "Section",ExpressionUUID->"b1142c58-521a-42bc-8789-64c95116c1ce"],
+Cell[2286241, 37517, 2547988, 41783, 331, "Input",ExpressionUUID->"83a218f6-fd52-420a-b7d8-068eda64eb72"]
 }, Open  ]]
 }, Open  ]]
 }
