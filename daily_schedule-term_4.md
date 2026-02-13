@@ -55,11 +55,22 @@ See also [Daily Schedule-Term 5](./daily_schedule-term_5.html)
   * Homework for Friday: Come into lab on your own time and do pp. 27-28 of Mims
 * Friday, Feb. 13
   * Homework: Any questions on pp. 27-28?
-  * Practice: We'll resume on p. 29 of Mims, then skip pp. 30-31 and continue on p. 32 (capacitors) &mdash; Things are going to get extra-exciting when we get to on p. 54, so we might do a little more page skipping &mdash; On the other hand, Mims has scaffolded the ideas very carefully, so it will be unwise to skip too much
-  * Homework for Monday: Depending on where in Mims we get to in class, I will choose a couple more pages of the capacitance circuits to do on your own
+  * Theory: Discussion of the Wheatstone Bridge &mdash; Introduction to Alternating Current &mdash; [Capacitors and Alternating Current](./resources/CapacitorsAndAlternatingCurrent.png)
+  * Practice: We'll resume on p. 29 of Mims, then skip pp. 30-31 and continue on p. 32-33 (capacitors) 
+  * Homework for Monday: Come into lab on your own time, read p. 32, and then do pp. 34-36 and 38 (note I am deliberately having you skip p. 37 which uses the black-box test circuit)
   
 ### Week 6 &mdash; RC Circuits in Practice &mdash; Transformers and Inductors
 
+* Tuesday, Feb. 17
+  * Homework: Any questions on the homework, pp. 32, 34-36 and 38?
+  * Theory: Continue discussion of alternating current
+  * Practice: Resume at p. 39 of Mims Workbook I
+  * Homework for Friday: Depending on where we get in class, we will select the homework for Friday
+* Friday, Feb. 20
+
 ### Week 7 &mdash; Semiconductor Devices &mdash; Diodes and Transistors
 
+* Tuesday, Feb. 24
+* Friday, Feb. 27
 
+SPRING BREAK &mdash; Sat., Feb. 28 to Sun., March 15
