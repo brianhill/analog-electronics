@@ -67,7 +67,7 @@ See also [Daily Schedule-Term 5](./daily_schedule-term_5.html)
   * Practice: Resume at p. 39 of Mims Workbook I
   * Homework for Friday: p. 40 and 42-44 of Mims Workbook I
 * Friday, Feb. 20
-  * Homework: Any questions on the homeowrk, pp. 40 and 42-44?
+  * Homework: Any questions on the homework, pp. 40 and 42-44?
   * Theory: IV Curves
   * Practice: Resume at pp. 45-47 of Mims
   * Skipping: In the interest of getting to p. 54 for Monday, we are skipping pp. 48-53
