@@ -63,7 +63,7 @@ See also [Daily Schedule-Term 5](./daily_schedule-term_5.html)
 
 * Tuesday, Feb. 17
   * Homework: Any questions on the homework, pp. 32, 34-36 and 38?
-  * Theory: Continue discussion of alternating current and capacitors in switched circuits &mdash; Also, capacitors interacting with inductors
+  * Theory: Continue discussion of alternating current and capacitors in switched circuits &mdash; Also, capacitors interacting with relays
   * Practice: Resume at p. 39 of Mims Workbook I
   * Homework for Friday: p. 40 and 42-44 of Mims Workbook I
 * Friday, Feb. 20
