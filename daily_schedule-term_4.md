@@ -71,14 +71,14 @@ See also [Daily Schedule-Term 5](./daily_schedule-term_5.html)
   * Theory: [Inductors and Transformers](./theory/2026-02-20-InductorsAndTransformers.nb.pdf)
   * Practice: Resume at p. 45 of Mims
   * Skipping: In the interest of getting to p. 54 for Monday, we will be skipping pp. 48-53 (lots and lots of LED circuits)
-  * Homework for Monday: pp. 46-47 and p. 54 of Mims (your first two transistor circuits)
+  * Homework for Tuesday: pp. 46-47 and pp. 54-55 of Mims (your first transistor circuits)
 
 ### Week 7 &mdash; Transistors!
 
 * Tuesday, Feb. 24
   * Theory: IV Curves from p. 46
-  * Discussion: Compare and contrast the two transistor circuits on p. 54
-  * Practice: Resume at p. 55 of Mims
+  * Discussion: Compare and contrast the transistor circuits on p. 54-55
+  * Practice: Resume at p. 56 of Mims
 * Friday, Feb. 27
 
 SPRING BREAK &mdash; Sat., Feb. 28 to Sun., March 15
