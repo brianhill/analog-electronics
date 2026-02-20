@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       154,          7]
-NotebookDataLength[   1324167,      21835]
-NotebookOptionsPosition[   1321472,      21782]
-NotebookOutlinePosition[   1322538,      21810]
-CellTagsIndexPosition[   1322495,      21807]
+NotebookDataLength[   1324304,      21837]
+NotebookOptionsPosition[   1321609,      21784]
+NotebookOutlinePosition[   1322675,      21812]
+CellTagsIndexPosition[   1322632,      21809]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -21695,9 +21695,10 @@ M83WEdD3AJw3PwDr6nE9
 
 Cell[TextData[{
  "The galvanometer shown is set up to measure current, or it could measure \
-voltage if it had a resistor of known size in series with it.\n\nThe \
-experiment is to open and close the switch connected to the battery. When the \
-switch is closed, current flows through the coil it is connected to. ",
+voltage if it had a resistor of known size in series with it. The drawing is \
+from phys.libretexts.org.\n\nThe experiment is to open and close the switch \
+connected to the battery. When the switch is closed, current flows through \
+the coil it is connected to. ",
  StyleBox["A current generates a magnetic field. ",
   FontSlant->"Italic"],
  "The iron loop channels the magnetic field around and through the other \
@@ -21721,8 +21722,9 @@ is physically damaged."
   3.98056334862847*^9, 3.980563380867874*^9}, {3.980563412186811*^9, 
   3.980563434671709*^9}, {3.980563510640306*^9, 3.980563582684823*^9}, {
   3.980563781372246*^9, 3.9805640061243267`*^9}, {3.980564108308073*^9, 
-  3.980564108487487*^9}, {3.980564373556107*^9, 
-  3.9805646083230267`*^9}},ExpressionUUID->"a8f8f229-91c1-4d31-be37-\
+  3.980564108487487*^9}, {3.980564373556107*^9, 3.9805646083230267`*^9}, {
+  3.980567574891032*^9, 3.98056759953468*^9}, {3.980567661773684*^9, 
+  3.980567662524043*^9}},ExpressionUUID->"a8f8f229-91c1-4d31-be37-\
 c5978a9071e9"]
 }, Open  ]],
 
@@ -21830,11 +21832,11 @@ Cell[CellGroupData[{
 Cell[450890, 7483, 654, 11, 82, "Section",ExpressionUUID->"99510af1-40de-47ce-89fc-1722f47a8dcf"],
 Cell[451547, 7496, 508, 9, 69, "Text",ExpressionUUID->"88ad9a2b-25c9-4ba6-92d8-9ba181bb9be4"],
 Cell[452058, 7507, 865011, 14186, 221, "Input",ExpressionUUID->"8c4916e6-43c5-4175-aefc-ba1185c31dd1"],
-Cell[1317072, 21695, 1941, 30, 561, "Text",ExpressionUUID->"a8f8f229-91c1-4d31-be37-c5978a9071e9"]
+Cell[1317072, 21695, 2078, 32, 561, "Text",ExpressionUUID->"a8f8f229-91c1-4d31-be37-c5978a9071e9"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1319050, 21730, 638, 11, 82, "Section",ExpressionUUID->"4fff3f2b-1483-4527-b98e-b9d3feba61da"],
-Cell[1319691, 21743, 1753, 35, 397, "Text",ExpressionUUID->"89c5ad7c-cb13-4704-ba54-96b6733b2c82"]
+Cell[1319187, 21732, 638, 11, 82, "Section",ExpressionUUID->"4fff3f2b-1483-4527-b98e-b9d3feba61da"],
+Cell[1319828, 21745, 1753, 35, 397, "Text",ExpressionUUID->"89c5ad7c-cb13-4704-ba54-96b6733b2c82"]
 }, Open  ]]
 }, Open  ]]
 }
