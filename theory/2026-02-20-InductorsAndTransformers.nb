@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       154,          7]
-NotebookDataLength[   1324304,      21837]
-NotebookOptionsPosition[   1321609,      21784]
-NotebookOutlinePosition[   1322675,      21812]
-CellTagsIndexPosition[   1322632,      21809]
+NotebookDataLength[   1324337,      21836]
+NotebookOptionsPosition[   1321642,      21783]
+NotebookOutlinePosition[   1322708,      21811]
+CellTagsIndexPosition[   1322665,      21808]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -21688,7 +21688,7 @@ M83WEdD3AJw3PwDr6nE9
     MetaInformation -> <|"XMP" -> <||>|>],
    Selectable->False],
   DefaultBaseStyle->"ImageGraphics",
-  ImageSize->{437.7406249999994, Automatic},
+  ImageSize->{373.37812499999916`, Automatic},
   ImageSizeRaw->{799., 300.},
   PlotRange->{{0, 799.}, {0, 300.}}]], "Input",ExpressionUUID->"8c4916e6-43c5-\
 4175-aefc-ba1185c31dd1"],
@@ -21708,8 +21708,8 @@ for some of the things in the drawing! The upper coil where the current \
 voltage and current are applied by the battery is known as \
 \[OpenCurlyDoubleQuote]the primary winding, or just \
 \[OpenCurlyDoubleQuote]the primary.\[CloseCurlyDoubleQuote] This is the \
-winding that generates the magnetic field.\n\nWhere the voltage and current \
-are produced by the changing magnetic flux is \[OpenCurlyDoubleQuote]the \
+winding that generates the magnetic field. Where the voltage and current are \
+produced by the changing magnetic flux is \[OpenCurlyDoubleQuote]the \
 secondary winding\[CloseCurlyDoubleQuote] or just \[OpenCurlyDoubleQuote]the \
 secondary.\[CloseCurlyDoubleQuote]\n\nConnecting them is the transformer \
 \[OpenCurlyDoubleQuote]core\[CloseCurlyDoubleQuote] which is metal chosen to \
@@ -21724,7 +21724,8 @@ is physically damaged."
   3.980563781372246*^9, 3.9805640061243267`*^9}, {3.980564108308073*^9, 
   3.980564108487487*^9}, {3.980564373556107*^9, 3.9805646083230267`*^9}, {
   3.980567574891032*^9, 3.98056759953468*^9}, {3.980567661773684*^9, 
-  3.980567662524043*^9}},ExpressionUUID->"a8f8f229-91c1-4d31-be37-\
+  3.980567662524043*^9}, {3.9805996566119556`*^9, 
+  3.9805996569489527`*^9}},ExpressionUUID->"a8f8f229-91c1-4d31-be37-\
 c5978a9071e9"]
 }, Open  ]],
 
@@ -21758,14 +21759,12 @@ secondary including that effect is:\n\n",
      FractionBox[
       RowBox[{"d", "\[VeryThinSpace]", "\[CapitalPhi]"}], 
       RowBox[{"d", "\[VeryThinSpace]", "t"}]]}]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "7d9ce279-ab5e-4f74-9d3b-8de4cfc61036"],
+  ExpressionUUID->"7d9ce279-ab5e-4f74-9d3b-8de4cfc61036"],
  "\n\nwhere ",
  Cell[BoxData[
-  FormBox["N", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+  FormBox["N", TraditionalForm]],ExpressionUUID->
   "598eaf7a-d90b-45e4-bee9-3a39c584d7df"],
- " is the number of windings in the secondary.\n\nBy adjusting the number of \
+ " is the number of windings in the secondary. By adjusting the number of \
 windings in the primary and the secondary, and the resistance of the primary \
 and the secondary which are also proportional to the number of their \
 respective windings, you can create a large voltage in the secondary compared \
@@ -21776,15 +21775,15 @@ the primary, or vice versa."
   3.980563421547942*^9}, {3.980564297164988*^9, 3.9805643480925713`*^9}, {
   3.9805646185909863`*^9, 3.980564749540367*^9}, {3.980565294976901*^9, 
   3.980565312078822*^9}, {3.980565909333036*^9, 3.980566007421344*^9}, {
-  3.980566050067645*^9, 
-  3.9805660819430857`*^9}},ExpressionUUID->"89c5ad7c-cb13-4704-ba54-\
+  3.980566050067645*^9, 3.9805660819430857`*^9}, {3.980599715285833*^9, 
+  3.980599715570154*^9}},ExpressionUUID->"89c5ad7c-cb13-4704-ba54-\
 96b6733b2c82"]
 }, Open  ]]
 }, Open  ]]
 },
 WindowSize->{959, 1154},
-WindowMargins->{{Automatic, 558}, {Automatic, 5}},
-PrintingCopies->1,
+WindowMargins->{{Automatic, 653}, {Automatic, 0}},
+PrintingCopies->3,
 PrintingPageRange->{1, Automatic},
 TaggingRules-><|"TryRealOnly" -> False|>,
 SpellingDictionaries->{"CorrectWords"->{
@@ -21831,12 +21830,12 @@ Cell[447700, 7403, 3153, 75, 567, "Text",ExpressionUUID->"501aa3e4-7436-4010-acf
 Cell[CellGroupData[{
 Cell[450890, 7483, 654, 11, 82, "Section",ExpressionUUID->"99510af1-40de-47ce-89fc-1722f47a8dcf"],
 Cell[451547, 7496, 508, 9, 69, "Text",ExpressionUUID->"88ad9a2b-25c9-4ba6-92d8-9ba181bb9be4"],
-Cell[452058, 7507, 865011, 14186, 221, "Input",ExpressionUUID->"8c4916e6-43c5-4175-aefc-ba1185c31dd1"],
-Cell[1317072, 21695, 2078, 32, 561, "Text",ExpressionUUID->"a8f8f229-91c1-4d31-be37-c5978a9071e9"]
+Cell[452058, 7507, 865013, 14186, 191, "Input",ExpressionUUID->"8c4916e6-43c5-4175-aefc-ba1185c31dd1"],
+Cell[1317074, 21695, 2128, 33, 506, "Text",ExpressionUUID->"a8f8f229-91c1-4d31-be37-c5978a9071e9"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1319187, 21732, 638, 11, 82, "Section",ExpressionUUID->"4fff3f2b-1483-4527-b98e-b9d3feba61da"],
-Cell[1319828, 21745, 1753, 35, 397, "Text",ExpressionUUID->"89c5ad7c-cb13-4704-ba54-96b6733b2c82"]
+Cell[1319239, 21733, 638, 11, 82, "Section",ExpressionUUID->"4fff3f2b-1483-4527-b98e-b9d3feba61da"],
+Cell[1319880, 21746, 1734, 33, 370, "Text",ExpressionUUID->"89c5ad7c-cb13-4704-ba54-96b6733b2c82"]
 }, Open  ]]
 }, Open  ]]
 }
