@@ -86,6 +86,4 @@ See also [Daily Schedule-Term 5](./daily_schedule-term_5.html)
   * Practice: We will skip p. 58, unless someone actually has a portable AM radio, and go straight to pp. 59-60 for our in-class practice
   * No Homework for Tuesday, March 17 &mdash; Except! Review the transistor circuits up to p. 60 and read the history of [Silicon Valley and The Traitorous Eight](./theory/TheTraitorousEight.pdf)
  
-SPRING BREAK &mdash; SATURDAY, FEBRUARY 28 TO SUNDAY, MARCH 15
-
-HAVE A GREAT BREAK! &mdash; COME BACK REFRESHED!
+HAVE A GREAT SPRING BREAK &mdash; SATURDAY, FEBRUARY 28 TO SUNDAY, MARCH 15
