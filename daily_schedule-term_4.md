@@ -76,9 +76,15 @@ See also [Daily Schedule-Term 5](./daily_schedule-term_5.html)
 ### Week 7 &mdash; Transistors!
 
 * Tuesday, Feb. 24
-  * Theory: IV Curves from p. 46
-  * Discussion: Compare and contrast the transistor circuits on p. 54-55
-  * Practice: Resume at p. 56 of Mims
+  * Practice: Compare and contrast the transistor circuits on pp. 54-55
+  * Theory: Insulators, Conductors, Semiconductors, and the Behavior of NPN transistors
+  * Homework for Friday: Build the two-transistor circuits on pp. 56-57
 * Friday, Feb. 27
+  * Homework: Should we discuss and understand the two-transistor circuits you built on pp. 56-57?
+  * Theory: [The Transistor, The Traitorous Eight, and Silicon Valley - FORTHCOMING](./theory/2026-02-27-TheTransistorTheTraitorousEightAndSiliconValley.nb.pdf)
+  * Practice: We will skip p. 58, unless someone actually has a portable AM radio, and go straight to pp. 59-60 for our in-class practice
+  * No Homework for Tuesday, March 17 &mdash; Except! Review the transistor circuits up to p. 60
+ 
+SPRING BREAK &mdash; SATURDAY, FEBRUARY 28 TO SUNDAY, MARCH 15
 
-SPRING BREAK &mdash; Sat., Feb. 28 to Sun., March 15
+HAVE A GREAT BREAK! &mdash; COME BACK REFRESHED!

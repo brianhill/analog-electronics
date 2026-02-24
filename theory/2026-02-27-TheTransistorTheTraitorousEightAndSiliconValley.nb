@@ -1,0 +1,109 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Wolfram 14.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       154,          7]
+NotebookDataLength[      4494,        101]
+NotebookOptionsPosition[      3150,         70]
+NotebookOutlinePosition[      4216,         98]
+CellTagsIndexPosition[      4173,         95]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["The Transistor, The Traitorous Eight, and Silicon Valley", "Chapter",
+ CellChangeTimes->{{3.97728962342274*^9, 3.977289627501096*^9}, {
+  3.9775280417432537`*^9, 3.977528043659202*^9}, {3.977557086595022*^9, 
+  3.977557089276721*^9}, {3.9775701465544252`*^9, 3.977570153093915*^9}, {
+  3.978137065354989*^9, 3.9781370726003*^9}, {3.978139207834571*^9, 
+  3.978139211747902*^9}, {3.9781673663889093`*^9, 3.978167372208755*^9}, {
+  3.9781674465380087`*^9, 3.978167447512197*^9}, {3.9781676797401667`*^9, 
+  3.978167680654418*^9}, {3.978765582284195*^9, 3.978765595006741*^9}, {
+  3.97937726026875*^9, 3.9793772628928556`*^9}, {3.980548977785005*^9, 
+  3.980548981498948*^9}, {3.980564195265122*^9, 3.980564203934906*^9}, {
+  3.980940702179858*^9, 3.980940720296636*^9}, {3.980940816187438*^9, 
+  3.980940822412922*^9}},ExpressionUUID->"d2045dd5-ae49-4de6-867a-\
+c651d57172e1"],
+
+Cell["Analog Electronics, 2026-02-27", "Subtitle",
+ CellChangeTimes->{{3.97728965813264*^9, 3.97728966770008*^9}, {
+   3.977528046840487*^9, 3.977528047115769*^9}, {3.977570142668344*^9, 
+   3.977570142906973*^9}, {3.977571781757244*^9, 3.977571782772765*^9}, {
+   3.9781392138940763`*^9, 3.978139214062749*^9}, {3.978167356324271*^9, 
+   3.978167356517761*^9}, {3.978513676090888*^9, 3.978513676473041*^9}, {
+   3.9793718127315187`*^9, 3.97937182329315*^9}, 3.979371860747254*^9, {
+   3.97937726659869*^9, 3.979377280083881*^9}, {3.979378085548912*^9, 
+   3.97937808822812*^9}, {3.980548986362156*^9, 3.9805489930216093`*^9}, {
+   3.9809407254590054`*^9, 
+   3.9809407257261677`*^9}},ExpressionUUID->"e8206456-eca3-43f3-9d73-\
+0dbb9fef0bab"],
+
+Cell[TextData[StyleBox["In Week 7, we went through pp. 54-60 where Mims \
+introduces the PNP and NPN transistors. What are ",
+ FontSlant->"Italic"]], "Subtitle",
+ CellChangeTimes->{{3.980559811983774*^9, 3.980559864164859*^9}, {
+  3.980940732164856*^9, 
+  3.980940807735262*^9}},ExpressionUUID->"16f0464b-b92f-4baf-af70-\
+9ed2ec7eb52e"],
+
+Cell["Semiconductors", "Section",
+ CellChangeTimes->CompressedData["
+1:eJxTTMoPSmViYGCQAmIQvejASQaRRW8dr7++wQiiHwcpzpgGpKUMf80E0eFt
+PNkzgPQjf8EcEH1shsxZED2nhe8ciD5amO05E0grZDN5g+iFE4/n+S9+65hm
+fw9MJ3YdFA4E0nzMt8E0U/Hy5ZlAuuTROjAtd+XYahA9q7ZnA4hecn/9FhD9
+QekrmM7g3P4BRN9LufwdRAeI3wnPBtJWcs/BtF0c14VNQLrs/TMwrZF88wqI
+Xi7MfxVEX3PpY3i65K2jztdERhC9x+qgMYjO0VhqAqLFZWpVngHpL5Ui6iC6
+jGGDHYi+UyZuD6IFykO2gulTB8H0wZSlEs+B9FlmFUkQPeu7jRaIviw8RRtE
+p3jmmoDoU0mzwPScGMscEB23YzmYbv+T582/7K3jJ41GMK1182ux94q3jiKT
+z5SB6JDHN49wrQT6X2/9MRANAONs4vM=
+  "],ExpressionUUID->"0f385bfe-cd67-47e7-9b93-ddea2e45cfe3"]
+}, Open  ]]
+},
+WindowSize->{959, 1154},
+WindowMargins->{{Automatic, 653}, {Automatic, 0}},
+PrintingCopies->3,
+PrintingPageRange->{1, Automatic},
+TaggingRules-><|"TryRealOnly" -> False|>,
+SpellingDictionaries->{"CorrectWords"->{
+ "Acck", "Fasshauer\[CloseCurlyQuote]s", "Giordano", "Eqs", "Eq", 
+  "unstretched", "Johannessen", "waaaaay", "Tahm", "Hexi", "Rania", "wifi", 
+  "pts", "Belk", "Wikimedia", "\[Omega]\[CloseCurlyQuote]s", 
+  "\[Theta]\[CloseCurlyQuote]s", "\[Alpha]\[CloseCurlyQuote]s", 
+  "proportionalities", "Lotke", "Neils", "dimensionful", "overconstrains", 
+  "levelspec", "uno", "tres", "cuatro", "cinco", "seis", "Jin", "Choy", 
+  "Zaki", "Howie", "screenshotted", "Sanderson", "Keras", "th", 
+  "Musschenbroek", "Pieter", "Kleist", "Leyden"}},
+FrontEndVersion->"14.3 for Mac OS X ARM (64-bit) (July 8, 2025)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"192e574c-aafc-474c-aff9-87c7c2443447"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[576, 22, 880, 12, 143, "Chapter",ExpressionUUID->"d2045dd5-ae49-4de6-867a-c651d57172e1"],
+Cell[1459, 36, 742, 11, 65, "Subtitle",ExpressionUUID->"e8206456-eca3-43f3-9d73-0dbb9fef0bab"],
+Cell[2204, 49, 336, 6, 104, "Subtitle",ExpressionUUID->"16f0464b-b92f-4baf-af70-9ed2ec7eb52e"],
+Cell[2543, 57, 591, 10, 82, "Section",ExpressionUUID->"0f385bfe-cd67-47e7-9b93-ddea2e45cfe3"]
+}, Open  ]]
+}
+]
+*)
+
