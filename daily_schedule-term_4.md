@@ -78,12 +78,12 @@ See also [Daily Schedule-Term 5](./daily_schedule-term_5.html)
 * Tuesday, Feb. 24
   * Practice: Compare and contrast the transistor circuits on pp. 54-55
   * Theory: Insulators, Conductors, Semiconductors, and the Behavior of NPN transistors
-  * Homework for Friday: Build the two-transistor circuits on pp. 56-57
-  * Reading for Friday: Please get a start looking at [How Semiconductors Work](./theory/HowSemiconductorsWork.pdf) which we will discuss in the Museum on Friday
+  * Practical homework for Friday: Build the two-transistor circuits on pp. 56-57
+  * Theory homework for Friday: Please get a start looking at [How Semiconductors Work](./theory/HowSemiconductorsWork.pdf) which we will discuss in the Museum on Friday
 * Friday, Feb. 27
-  * Homework: Should we discuss and understand the two-transistor circuits you built on pp. 56-57?
-  * Theory: Discuss [How Semiconductors Work](./theory/HowSemiconductorsWork.pdf)
+  * Practical homework: Would it be profitable to discuss and further understand the two two-transistor circuits you built on pp. 56-57?
+  * Theory homework: Discuss [How Semiconductors Work](./theory/HowSemiconductorsWork.pdf)
   * Practice: We will skip p. 58, unless someone actually has a portable AM radio, and go straight to pp. 59-60 for our in-class practice
-  * No Homework for Tuesday, March 17 &mdash; Except! Review the transistor circuits up to p. 60 and read the history of [Silicon Valley and The Traitorous Eight](./theory/TheTraitorousEight.pdf)
+  * Tuesday, March 17 &mdash; Nothing new in Mims, but review the transistor circuits up to p. 60, review [How Semiconductors Work](./theory/HowSemiconductorsWork.pdf) and read the early history of [Silicon Valley and The Traitorous Eight](./theory/TheTraitorousEight.pdf)
  
 HAVE A GREAT SPRING BREAK &mdash; SATURDAY, FEBRUARY 28 TO SUNDAY, MARCH 15
