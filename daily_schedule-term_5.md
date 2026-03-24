@@ -11,4 +11,4 @@ See also [Daily Schedule-Term 4](./daily_schedule-term_4.html)
 
 ### Week 9
 
-* Tuesday, March 24 &mdash; As homework before class, build the two circuits on p. 59 &mdash; In class, we will build the circuit on p. 58 and try it using the AM radios in the campus vehicles &mdash; We may also build the circuit on p. 60, which is yet another unstable configuration
+* Tuesday, March 24 &mdash; Skop to p. 59 and as the homework before class, build the two circuits on that page &mdash; In class, we will come back to the circuit on p. 58 and try it using the AM radios in the campus vehicles &mdash; We may also build the circuit on p. 60, which is yet another oscillator configuration
