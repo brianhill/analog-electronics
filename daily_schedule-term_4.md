@@ -83,7 +83,5 @@ See also [Daily Schedule-Term 5](./daily_schedule-term_5.html)
 * Friday, Feb. 27
   * Practical homework: Would it be profitable to discuss and further understand the two two-transistor circuits you built on pp. 56-57?
   * Theory homework: Discuss [How Semiconductors Work](./theory/HowSemiconductorsWork.pdf)
-  * Practice: We will skip p. 58, unless someone actually has a portable AM radio, and go straight to pp. 59-60 for our in-class practice
-  * Tuesday, March 17 &mdash; Nothing new in Mims, but review the transistor circuits up to p. 60, review [How Semiconductors Work](./theory/HowSemiconductorsWork.pdf) and read the early history of [Silicon Valley and The Traitorous Eight](./theory/TheTraitorousEight.pdf)
  
 HAVE A GREAT SPRING BREAK &mdash; SATURDAY, FEBRUARY 28 TO SUNDAY, MARCH 15
