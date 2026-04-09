@@ -21,4 +21,5 @@ See also [Daily Schedule-Term 4](./daily_schedule-term_4.html)
 
 ### Week 11 &mdash; Continue Op Amps &mdash; High-Pass Filters
 
-* Tuesday, April 7 &mdash; Continue measuring properties of our op amps using multimeters &mdash; Finish reviewing [our collected problems](./theory/2026-04-03-OpAmpsAndRCFilters.nb.pdf) &mdash; Start building the high-gain audio amplifier in class
+* Tuesday, April 7 &mdash; Continue measuring properties of our op amps using multimeters &mdash; Finish reviewing [our collected problems](./theory/2026-04-03-OpAmpsAndRCFilters.nb.pdf) &mdash; Start soldering our AM/FM Radios
+* Friday, April 10 &mdash; Start reviewing [our next set of collected problems](./theory/2026-04-10-EquivalentResistanceAndHighPassFilters.nb.pdf) &mdash; Log-Log Plots &mdash; Continue Building our AM/FM Radios

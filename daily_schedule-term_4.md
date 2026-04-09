@@ -69,6 +69,7 @@ See also [Daily Schedule-Term 5](./daily_schedule-term_5.html)
 * Friday, Feb. 20
   * Homework: Any questions on the homework, pp. 40 and 42-44?
   * Theory: [Inductors and Transformers](./theory/2026-02-20-InductorsAndTransformers.nb.pdf)
+  * Grisha's Experiment: [Demonstrating Faraday's Law](./resources/AnalogElectronics-FaradaysLaw.mp4) (mp4 video)
   * Practice: Resume at p. 45 of Mims
   * Skipping: In the interest of getting to p. 54 for Monday, we will be skipping pp. 48-53 (lots and lots of LED circuits)
   * Homework for Tuesday: pp. 46-47 and pp. 54-55 of Mims (your first transistor circuits)
