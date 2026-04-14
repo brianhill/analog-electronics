@@ -6,7 +6,7 @@
 
 *Course meeting times: 8:00-9:25am, Tu/Fr*
 
-## Course Proposal and Preliminary Syllabus
+## Course Proposal and Syllabus
 
 A [PDF of the Course Proposal](./AnalogElectronicsCourseProposal.pdf) and a [PDF of the Syllabus](./AnalogElectronicsSyllabus.pdf) both containing much of the same information as is on these web pages.
 
