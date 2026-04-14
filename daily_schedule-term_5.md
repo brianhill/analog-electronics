@@ -19,7 +19,12 @@ See also [Daily Schedule-Term 4](./daily_schedule-term_4.html)
 * Tuesday, March 31 &mdash; Before class, build your first operational amplifier circuit on p. 72 &mdash; In class, we will build the circuit on p. 73 which has an op amp in an inverting configuration &mdash; Negative feedback [theory for op amps](./theory/OpAmpTheory.pdf) in inverting configuration
 * Friday, April 3 &mdash; First we'll go over your questions on [our collected problems](./theory/2026-04-03-OpAmpsAndRCFilters.nb.pdf) &mdash; Second, we will understand the [charge and discharge cycles](./theory/2026-04-04-LowPassBlackboard.jpeg) that make a low-pass filter work &mdash; We will measure properties of our op amps using multimeters
 
-### Week 11 &mdash; Continue Op Amps &mdash; High-Pass Filters
+### Week 11 &mdash; Continue Op Amps &mdash; High-Pass Filters &mdash; Special Project (Start AM/FM Radio Kits)
 
-* Tuesday, April 7 &mdash; Continue measuring properties of our op amps using multimeters &mdash; Finish reviewing [our collected problems](./theory/2026-04-03-OpAmpsAndRCFilters.nb.pdf) &mdash; Start soldering our AM/FM Radios
-* Friday, April 10 &mdash; Start reviewing [our next set of collected problems](./theory/2026-04-10-EquivalentResistanceAndHighPassFilters.nb.pdf) &mdash; Log-Log Plots &mdash; Continue Building our AM/FM Radios
+* Tuesday, April 7 &mdash; Continue measuring properties of our op amps using multimeters &mdash; Finish reviewing our collected problems on [Op Amps and RC Filters](./theory/2026-04-03-OpAmpsAndRCFilters.nb.pdf) &mdash; Start soldering our AM/FM Radios
+* Friday, April 10 &mdash; Another batch of problems on [Equivalent Resistance and High Pass Filters](./theory/2026-04-10-EquivalentResistanceAndHighPassFilters.nb.pdf) &mdash; Continue Assembling our AM/FM Radios
+ 
+### Week 12 &mdash; Power Transfer &mdash; Continue Assembling AM/FM Radio Kits
+
+* Tuesday, April 14 &mdash; Do a fundamental [problem on power transfer](./theory/2026-04-14-PowerTransfer.pdf) &mdash; Continue Building our AM/FM Radios
+* Friday, April 17 &mdash; 
